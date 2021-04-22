@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr">
     <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <title>France</title>
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
         <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
     </head>
@@ -14,24 +16,23 @@
         <div id="map" style="width:100%; height:100%"></div>
     </body>
 </html>
+<!-- Pour export futur du js dans un fichier séparé
+<script type="text/javascript"  src="{{ url_for('static', filename='map.js') }}"></script> -->
 <script type="text/javascript">
-        function initialize() {
-            var ID = JSON.parse('{{ ID|safe}}');
-            var Lat = JSON.parse('{{ Lat|safe}}');
-            var Long = JSON.parse('{{ Long|safe}}');
-        var map = L.map('map').setView([48.833, 2.333], 7);
-        //Créer un curseur avec le nom[i], la latitude[i] et la longitude[i]
-        for (var i = 0  ; i <3; i++) {
-             L.marker([ 56 , Long[i]]).addTo(map)
-             .bindTooltip( ID[i], {permanent: true, direction: 'top'}); 
-             } 
-        var osmLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { // LIGNE 20
-            attribution: '© OpenStreetMap contributors',
-            maxZoom: 19
-            });
-        
-            map.addLayer(osmLayer);
-    }
-</script>
+            function initialize() {
+                var ID = JSON.parse('{{ ID | safe}}');
+                var Lat = JSON.parse('{{ Lat | safe}}');
+                var Long = JSON.parse('{{ Long | safe}}');
+                var map = L.map('map').setView([48.833, 2.333], 7);
+            for (var i = Lat.length -1 ; i>=0;i-- ) { //Créer un marqueur avec le nom[i], la latitude[i] et la longitude[i]
+                L.marker([ Lat[i][0] , Long[i][0]]).addTo(map) .bindTooltip( (ID[i][0]), {permanent: false, direction: 'top'});
+             }
+                var osmLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { // LIGNE 20
+                    attribution: '© OpenStreetMap contributors',
+                    maxZoom: 19
+                });
 
+            map.addLayer(osmLayer);
+            }
+</script>
 

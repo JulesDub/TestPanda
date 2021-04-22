@@ -1,9 +1,9 @@
 colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;gestion;sousunite_nom_en;sousunite_nom_fr;subreg_id;latitude;longitude
-1;"SAINT-VALERY-EN-CAUX A VEULES-LES-ROSES		";PAYS DE CAUX;Saint-Valery-en-Caux a Veules-les-Roses ;Saint-Valery-en-Caux a Veules-les-Roses ;;; ; ;4;49.87194;0.76194
+1;"SAINT-VALERY-EN-CAUX A VEULES-LES-ROSES ";PAYS DE CAUX;Saint-Valery-en-Caux a Veules-les-Roses ;Saint-Valery-en-Caux a Veules-les-Roses ;;; ; ;4;49.87194;0.76194
 2;SAINT-MARCOUF Île de Terre;LITTORAL COTENTIN EST;Saint Marcouf-Île de Terre;Saint Marcouf-Île de Terre;;; ; ;4;49.49778;-1.15417
 3;SAINT-MARCOUF;LITTORAL COTENTIN EST;Ile du Large;Saint Marcouf-Île du Large;;; ; ;4;49.49361;-1.14639
 5;BELLEVILLE-SUR-MER;PAYS DE CAUX;Valle Prêtre;Val du Prêtre;;; ; ;4;49.95056;1.14389
-6;"CAP BLANC NEZ		";"CAP BLANC NEZ		";"CAP BLANC NEZ		";"CAP BLANC NEZ		";;; ; ;4;50.93;1.715
+6;"CAP BLANC NEZ ";"CAP BLANC NEZ ";"CAP BLANC NEZ ";"CAP BLANC NEZ ";;; ; ;4;50.93;1.715
 7;CAP BLANC NEZ;CAP BLANC NEZ;Cap Blanc Nez_002;Cap Blanc Nez_002;;; ; ;4;50.922639;1.703889
 8;CAP BLANC NEZ;CAP BLANC NEZ;Cap Blanc Nez_004;Cap Blanc Nez_004;;; ; ;4;50.922972;1.704444
 9;CAP BLANC NEZ;CAP BLANC NEZ;Cap Blanc Nez_008;Cap Blanc Nez_008;;; ; ;4;50.926889;1.709167
@@ -13,26 +13,26 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 13;BOULOGNE-SUR-MER;BOULOGNE-SUR-MER;Ecluse Loubet1;Ecluse Loubet1;;; ; ;4;50.726417;1.591042
 14;BOULOGNE-SUR-MER;BOULOGNE-SUR-MER;Ecluse Loubet2;Ecluse Loubet2;;; ; ;4;50.7265;1.591792
 15;BOULOGNE-SUR-MER;BOULOGNE-SUR-MER;Gare maritime;Gare maritime;;; ; ;4;50.726181;1.596861
-16;"CAP FAGNET		";PAYS DE CAUX;"CAP FAGNET		";Cap Fagnet;;; ; ;4;49.7695;0.37
-17;"CAP D'ANTIFER		";PAYS DE CAUX;"CAP D'ANTIFER		";Cap d'antifer;;; ; ;4;49.683056;0.164167
-18;"ENGLESQUEVILLE-LA-PERCEE		";FALAISES DU BESSIN;Englesqueville-la-Percée;Englesqueville-la-Percée;;; ; ;4;49.392777;-0.926111
-20;CÔTE D'OPALE;CÔTE D'OPALE;Platier d'Oye;Platier d'Oye;;; ; ;4;51.0044;2.05427
+16;"CAP FAGNET ";PAYS DE CAUX;"CAP FAGNET ";Cap Fagnet;;; ; ;4;49.7695;0.37
+17;"CAP DANTIFER ";PAYS DE CAUX;"CAP DANTIFER ";Cap dantifer;;; ; ;4;49.683056;0.164167
+18;"ENGLESQUEVILLE-LA-PERCEE ";FALAISES DU BESSIN;Englesqueville-la-Percée;Englesqueville-la-Percée;;; ; ;4;49.392777;-0.926111
+20;CÔTE DOPALE;CÔTE DOPALE;Platier dOye;Platier dOye;;; ; ;4;51.0044;2.05427
 21;BAIE DE LANCIEUX ET FRESNAYE;BAIE DE LANCIEUX ET FRESNAYE;La Colombière;La Colombière;;; ; ;4;48.623611;-2.206111
-23;"CÔTE D'OPALE		";"CÔTE D'OPALE		";"CÔTE D'OPALE		";"CÔTE D'OPALE		";;; ; ;4;50.993482;2.065738
-24;CÔTE D'OPALE;CÔTE D'OPALE;Clipon;Clipon;;; ; ;4;51.04326;2.191761
-25;CÔTE D'OPALE;CÔTE D'OPALE;Grand-Fort Philippe;Grand-Fort Philippe;;; ; ;4;51.010411;2.089515
-26;CÔTE D'OPALE;CÔTE D'OPALE;banc du Casino RNN+banc DPM;banc du Casino RNN+banc DPM;;; ; ;4;51.001743;2.037609
+23;"CÔTE DOPALE";"CÔTE DOPALE";"CÔTE DOPALE";"CÔTE DOPALE";;; ; ;4;50.993482;2.065738
+24;CÔTE DOPALE;CÔTE DOPALE;Clipon;Clipon;;; ; ;4;51.04326;2.191761
+25;CÔTE DOPALE;CÔTE DOPALE;Grand-Fort Philippe;Grand-Fort Philippe;;; ; ;4;51.010411;2.089515
+26;CÔTE DOPALE;CÔTE DOPALE;banc du Casino RNN+banc DPM;banc du Casino RNN+banc DPM;;; ; ;4;51.001743;2.037609
 27;BAIE DE SEINE;BAIE DE SEINE;Estuaire de la Seine;Estuaire de la Seine;;; ; ;4;49.447466;0.163214
 28;ESTUAIRE DE JAUDY;ESTUAIRE DE JAUDY;Sillon de Talbert;Sillon de Talbert;;; ; ;2;48.8826;-3.0733
-29;ARCHIPEL DE MOLENE;ARCHIPEL DE MOLENE;Enez ar C'hrizien;Enez ar C'hrizien;;; ; ;2;48.37887;-4.938644
+29;ARCHIPEL DE MOLENE;ARCHIPEL DE MOLENE;Enez ar Chrizien;Enez ar Chrizien;;; ; ;2;48.37887;-4.938644
 30;ARCHIPEL DE MOLENE;ARCHIPEL DE MOLENE;Île de Kemenez (cale);Île de Kemenez (cale);;; ; ;2;48.375834;-4.897295
 31;ARCHIPEL DE MOLENE;ARCHIPEL DE MOLENE;Île de Kemenez (sud);Île de Kemenez (sud);;; ; ;2;48.37257;-4.897091
 32;ARCHIPEL DE MOLENE;ARCHIPEL DE MOLENE;Litiri;Litiri;;; ; ;2;48.374445;-4.885021
 33;SEIN ET CHAUSSEE;SEIN ET CHAUSSEE;Île de Sein;Île de Sein;;; ; ;2;48.04388;-4.866012
-34;CÔTE D'OPALE;CÔTE D'OPALE;Gravelines;Gravelines;;; ; ;4;51.018396;2.136333
-35;"ÎLE CHAUSEY		";"ÎLE CHAUSEY		";"ÎLE CHAUSEY		";"ÎLE CHAUSEY		";;; ; ;4;48.875;-1.828
-36;"RANCE FLUVIALE 		";"RANCE FLUVIALE 		";"RANCE FLUVIALE 		";"RANCE FLUVIALE 		";;; ; ;2;48.600278;-1.9725
-38;"TRÉGOR GOËLO		";"TRÉGOR GOËLO		";"TRÉGOR GOËLO		";"TRÉGOR GOËLO		";;; ; ;2;48.866112;-3.131433
+34;CÔTE DOPALE;CÔTE DOPALE;Gravelines;Gravelines;;; ; ;4;51.018396;2.136333
+35;"ÎLE CHAUSEY ";"ÎLE CHAUSEY ";"ÎLE CHAUSEY ";"ÎLE CHAUSEY ";;; ; ;4;48.875;-1.828
+36;"RANCE FLUVIALE ";"RANCE FLUVIALE ";"RANCE FLUVIALE ";"RANCE FLUVIALE ";;; ; ;2;48.600278;-1.9725
+38;"TRÉGOR GOËLO ";"TRÉGOR GOËLO ";"TRÉGOR GOËLO ";"TRÉGOR GOËLO ";;; ; ;2;48.866112;-3.131433
 39;ARCHIPEL DES SEPT-ÎLES;ARCHIPEL DES SEPT-ÎLES;RNN des Sept-Îles;RNN des Sept-Îles;;;îlots du Cerf;îlots du Cerf;2;48.875219;-3.507312
 40;CÔTE DE GRANIT ROSE;CÔTE DE GRANIT ROSE;Le Gouffre;Le Gouffre;;; ; ;2;48.840905;-3.508811
 41;CÔTE DE GRANIT ROSE;CÔTE DE GRANIT ROSE;Île de Costaeres;Île de Costaeres;;; ; ;2;48.835623;-3.491747
@@ -41,55 +41,55 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 44;ÎLE DE BATZ;ÎLE DE BATZ;Île Kernog;Île Kernog;;; ; ;2;48.754167;-4.028333
 45;PAYS PAGAN;PAYS PAGAN;Etang du Curnic;Etang du Curnic;;; ; ;2;48.635432;-4.437413
 46;RÉGION DES ABERS;RÉGION DES ABERS;Aber Benoit;Aber Benoit;;; ; ;2;48.601389;-4.623333
-47;PAYS D'IROISE;PAYS D'IROISE;Gymnase de Saint-Renan;Gymnase de Saint-Renan;;; ; ;2;48.431944;-4.623056
+47;PAYS DIROISE;PAYS DIROISE;Gymnase de Saint-Renan;Gymnase de Saint-Renan;;; ; ;2;48.431944;-4.623056
 48;ARCHIPEL DE MOLENE;ARCHIPEL DE MOLENE;Banneg;Banneg;;; ; ;2;48.426593;-5.124369
 50;ARCHIPEL DE MOLENE;ARCHIPEL DE MOLENE;Ledenez Vraz Kemenez;Ledenez Vraz Kemenez;;; ; ;2;48.380189;-4.899709
 52;RADE DE BREST;RADE DE BREST;Baie de Roscanvel;Baie de Roscanvel;;; ; ;2;48.305281;-4.49724
-53;RADE DE BREST;RADE DE BREST;Ducs d'Albe (pointe de l'Armorique);Ducs d'Albe (pointe de l'Armorique);;; ; ;2;48.322391;-4.454092
+53;RADE DE BREST;RADE DE BREST;Ducs dAlbe (pointe de lArmorique);Ducs dAlbe (pointe de lArmorique);;; ; ;2;48.322391;-4.454092
 54;RADE DE BREST;RADE DE BREST;Port de commerce de Brest (digue sud);Port de commerce de Brest (digue sud);;; ; ;2;48.378314;-4.476568
 55;RADE DE BREST;RADE DE BREST;Gabion du port de commerce de Brest;Gabion du port de commerce de Brest;;; ; ;2;48.385397;-4.460389
-56;FALAISES DU BESSIN  ;FALAISES DU BESSIN  ;Saint-Pierre-du-Mont;Saint-Pierre-du-Mont;;;Colonies naturelles;Colonies naturelles;4;49.395833;-0.979167
+56;FALAISES DU BESSIN ;FALAISES DU BESSIN ;Saint-Pierre-du-Mont;Saint-Pierre-du-Mont;;;Colonies naturelles;Colonies naturelles;4;49.395833;-0.979167
 57;LITTORAL COTENTIN EST;LITTORAL COTENTIN EST;Saint-Marcouf;Saint-Marcouf;;; ; ;4;49.495883;-1.148611
-58;"LA HOUGUE ET CHERBOURG		";"LA HOUGUE ET CHERBOURG		";"LA HOUGUE ET CHERBOURG		";"LA HOUGUE ET CHERBOURG		";;; ; ;4;49.666667;-1.6
+58;"LA HOUGUE ET CHERBOURG ";"LA HOUGUE ET CHERBOURG ";"LA HOUGUE ET CHERBOURG ";"LA HOUGUE ET CHERBOURG ";;; ; ;4;49.666667;-1.6
 60;MONT SAINT MICHEL ET RADE DE CANCALE ;MONT SAINT MICHEL ET RADE DE CANCALE ;Autres Îlots;Autres Îlots;;; ; ;2;48.711111;-1.8375
 61;MONT SAINT MICHEL ET RADE DE CANCALE;MONT SAINT MICHEL ET RADE DE CANCALE;Île des Landes;Île des Landes;;; ; ;2;48.710984;-1.83763
 62;GRANDE RADE DE SAINT-MALO;GRANDE RADE DE SAINT-MALO;île Agot;île Agot;;; ; ;2;48.639115;-2.1596
-63;GRANDE RADE DE SAINT MALO  ;GRANDE RADE DE SAINT MALO ;Cézembre;Cézembre;;; ; ;2;48.676944;-2.071389
+63;GRANDE RADE DE SAINT MALO ;GRANDE RADE DE SAINT MALO ;Cézembre;Cézembre;;; ; ;2;48.676944;-2.071389
 64;RANCE FLUVIALE ;RANCE FLUVIALE ;Île aux Moines;Île aux Moines;;; ; ;2;48.586927;-1.994395
 65;ERQUY ET FREHEL ;ERQUY ET FREHEL ;Cap Fréhel;Cap Fréhel;;; ; ;2;48.6875;-2.330556
-66;BAIE DE SAINT BRIEUC  ;BAIE DE SAINT BRIEUC  ;Verdelet;Verdelet;;; ; ;2;48.604722;-2.558333
+66;BAIE DE SAINT BRIEUC ;BAIE DE SAINT BRIEUC ;Verdelet;Verdelet;;; ; ;2;48.604722;-2.558333
 67;COTE DU GOELO ;COTE DU GOELO ;Saint Riom;Saint Riom;;; ; ;2;48.798312;-2.978867
 68;ARCHIPEL DES SEPT ILES;ARCHIPEL DES SEPT ILES;ARCHIPEL DES SEPT ILES;ARCHIPEL DES SEPT ILES;;; ;;2;48.891667;-3.464444
-69;"BAIE DE MORLAIX		";"BAIE DE MORLAIX		";"BAIE DE MORLAIX		";"BAIE DE MORLAIX		";;; ; ;2;48.691667;-3.894444
+69;"BAIE DE MORLAIX ";"BAIE DE MORLAIX ";"BAIE DE MORLAIX ";"BAIE DE MORLAIX ";;; ; ;2;48.691667;-3.894444
 70;ILE DE BATZ;ILE DE BATZ;Ti Saozon;Ti Saozon;;; ; ;2;48.754167;-4.028333
 72;LE FOUR ;LE FOUR ;Les Fourches;Les Fourches;;; ; ;2;48.441111;-4.801111
-73;"OUESSANT ET DEPENDANCES		";"OUESSANT ET DEPENDANCES		";"OUESSANT ET DEPENDANCES		";"OUESSANT ET DEPENDANCES		";;; ; ;2;48.458333;-5.082778
-74;"ARCHIPEL DE MOLENE		";"ARCHIPEL DE MOLENE		";"ARCHIPEL DE MOLENE		";"ARCHIPEL DE MOLENE		";;; ; ;2;48.394444;-4.961111
-75;"RADE DE BREST		";"RADE DE BREST		";"RADE DE BREST		";"RADE DE BREST		";;; ; ;2;48.306111;-4.53
-76;PRESQU'ÎLE DE CROZON;PRESQU'ÎLE DE CROZON;Toulinguet;Toulinguet;;; ; ;2;48.275;-4.641667
-77;PRESQU'ÎLE DE CROZON;PRESQU'ÎLE DE CROZON;Tas de Pois;Tas de Pois;;; ; ;2;48.25;-4.627778
-78;PRESQU'ÎLE DE CROZON;PRESQU'ÎLE DE CROZON;Îlot de l'Aber;Îlot de l'Aber;;; ; ;2;48.221733;-4.437269
+73;"OUESSANT ET DEPENDANCES ";"OUESSANT ET DEPENDANCES ";"OUESSANT ET DEPENDANCES ";"OUESSANT ET DEPENDANCES ";;; ; ;2;48.458333;-5.082778
+74;"ARCHIPEL DE MOLENE ";"ARCHIPEL DE MOLENE ";"ARCHIPEL DE MOLENE ";"ARCHIPEL DE MOLENE ";;; ; ;2;48.394444;-4.961111
+75;"RADE DE BREST ";"RADE DE BREST ";"RADE DE BREST ";"RADE DE BREST ";;; ; ;2;48.306111;-4.53
+76;PRESQUÎLE DE CROZON;PRESQUÎLE DE CROZON;Toulinguet;Toulinguet;;; ; ;2;48.275;-4.641667
+77;PRESQUÎLE DE CROZON;PRESQUÎLE DE CROZON;Tas de Pois;Tas de Pois;;; ; ;2;48.25;-4.627778
+78;PRESQUÎLE DE CROZON;PRESQUÎLE DE CROZON;Îlot de lAber;Îlot de lAber;;; ; ;2;48.221733;-4.437269
 79;CAP SIZUN;CAP SIZUN;Goulien;Goulien;;; ; ;2;48.080555;-4.586666
 81;ÎLE CHAUSEY;ÎLE CHAUSEY;Huguenans;Huguenans;;; ; ;4;48.873888;-1.773889
 82;ÎLE CHAUSEY;ÎLE CHAUSEY;Houlée;Houlée;;; ; ;4;48.878825;-1.853213
 83;ÎLE CHAUSEY;ÎLE CHAUSEY;Petit Romont;Petit Romont;;; ; ;4;48.885161;-1.818073
-86;"MESNILVAL		";"MESNILVAL		";"MESNILVAL		";"MESNILVAL		";;; ; ;4;50.052777;1.344444
+86;"MESNILVAL ";"MESNILVAL ";"MESNILVAL ";"MESNILVAL ";;; ; ;4;50.052777;1.344444
 87;JOBOURG;LA HAGUE;Nez de Jobourg;Nez de Jobourg;;;Colonies naturelles;Colonies naturelles;4;49.672002;-1.940498
-89;ARCHIPEL DE MOLENE;ARCHIPEL DE MOLENE;Roc'h Hir;Roc'h Hir;;; ; ;2;48.423;-5.0175
-90;REGION DES ABERS ;REGION DES ABERS ;Trevoc'h;Trevoc'h;;; ; ;2;48.601389;-4.623333
+89;ARCHIPEL DE MOLENE;ARCHIPEL DE MOLENE;Roch Hir;Roch Hir;;; ; ;2;48.423;-5.0175
+90;REGION DES ABERS ;REGION DES ABERS ;Trevoch;Trevoch;;; ; ;2;48.601389;-4.623333
 91;BAIE DE MORLAIX;BAIE DE MORLAIX;Enez Rikard;Enez Rikard;;; ; ;2;48.69072461;-3.893708285
 92;BAIE DE MORLAIX;BAIE DE MORLAIX;Enez Wragez;Enez Wragez;;; ; ;2;48.68614864;-3.844112891
-93;TREGOR GOELO;TREGOR GOELO;Roc'h Losquet;Roc'h Losquet;;; ; ;4;48.84081;-3.026458
+93;TREGOR GOELO;TREGOR GOELO;Roch Losquet;Roch Losquet;;; ; ;4;48.84081;-3.026458
 94;TREGOR GOELO;TREGOR GOELO;Cote 12 m;Cote 12 m;;; ; ;4;48.84876;-3.027861
 95;TREGOR GOELO;TREGOR GOELO;Les Trois Îles;Les Trois Îles;;; ; ;4;48.837059;-3.04487
 97;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Stallio Braz (îlot de galets terminal du Talbert);Stallio Braz (îlot de galets terminal du Talbert);;; ; ;4;48.891411;-3.062012
 98;GOLFE DU MORBIHAN;GOLFE DU MORBIHAN;Meaban;Meaban;;; ; ;3;47.5287;-2.9468
-99;PRESQU'ILE DE QUIBERON;PRESQU'ILE DE QUIBERON;Iniz er Gwernig;Iniz er Gwernig;;; ; ;3;47.5527;-3.1639
+99;PRESQUILE DE QUIBERON;PRESQUILE DE QUIBERON;Iniz er Gwernig;Iniz er Gwernig;;; ; ;3;47.5527;-3.1639
 100;BELLE ILE;BELLE ILE;Ilot de Domois;Ilot de Domois;;; ; ;3;47.2961;-3.2269
 101;BELLE ILE;BELLE ILE;Ilot pointe de Grand Village;Ilot pointe de Grand Village;;; ; ;3;47.2951;-3.1833
 102;GOLFE DU MORBIHAN;GOLFE DU MORBIHAN;Chubeguez Vras;Chubeguez Vras;;; ; ;3;47.3765;-2.9563
 103;GOLFE DU MORBIHAN;GOLFE DU MORBIHAN;Er Valueg;Er Valueg;;; ; ;3;47.4116;-3.0156
-104;PRESQU'ILE DE QUIBERON;PRESQU'ILE DE QUIBERON;Tivieg;Tivieg;;; ; ;3;47.39;-3.2495
+104;PRESQUILE DE QUIBERON;PRESQUILE DE QUIBERON;Tivieg;Tivieg;;; ; ;3;47.39;-3.2495
 105;GOLFE DU MORBIHAN;GOLFE DU MORBIHAN;Grimod Tost;Grimod Tost;;; ; ;3;47.3541;-2.9662
 106;BELLE ILE;BELLE ILE;Ilot Bangor;Ilot Bangor;;; ; ;3;47.2928;-3.1956
 107;BELLE ILE;BELLE ILE;Ilot Bourhic;Ilot Bourhic;;; ; ;3;47.2894;-3.1195
@@ -100,7 +100,7 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 113;BELLE ILE;BELLE ILE;Ilot Pouldon;Ilot Pouldon;;; ; ;3;47.2864;-3.1435
 114;GOLFE DU MORBIHAN;GOLFE DU MORBIHAN;Glazig;Glazig;;; ; ;3;47.4167;-3.0266
 115;BELLE ILE;BELLE ILE;Ile aux Goélands;Ile aux Goélands;;; ; ;3;47.3392;-3.255
-116;PRESQU'ILE DE QUIBERON;PRESQU'ILE DE QUIBERON;Rohellan;Rohellan;;; ; ;3;47.6089;-3.199
+116;PRESQUILE DE QUIBERON;PRESQUILE DE QUIBERON;Rohellan;Rohellan;;; ; ;3;47.6089;-3.199
 117;GOLFE DU MORBIHAN;GOLFE DU MORBIHAN;Er Jeneteu;Er Jeneteu;;; ; ;3;47.397;-2.9422
 118;GOLFE DU MORBIHAN;GOLFE DU MORBIHAN;Er Hardenn Vras;Er Hardenn Vras;;; ; ;3;47.3258;-2.8352
 119;GOLFE DU MORBIHAN;GOLFE DU MORBIHAN;Groah Hoad;Groah Hoad;;; ; ;3;47.4032;-2.9498
@@ -122,7 +122,7 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 135;BELLE ILE;BELLE ILE;Sauzon - Port Jean;Sauzon - Port Jean;;; ; ;3;47.3698;-3.206
 136;BELLE ILE;BELLE ILE;Ster Vraz - Poulains;Ster Vraz - Poulains;;; ; ;3;47.3792;-3.25
 137;BELLE ILE;BELLE ILE;Port Jean - Port Fouquet;Port Jean - Port Fouquet;;; ; ;3;47.3636;-3.181
-138;PLÉVENON;PLÉVENON;cap Fréhel;cap Fréhel;;;;;2;;
+138;PLÉVENON;PLÉVENON;cap Fréhel;cap Fréhel;;;;;2;47.3792;-3.25
 139;ILE CHAUSEY;ILE CHAUSEY;île Plate;île Plate;;; ; ;4;48.895708;-1.82314
 140;MONT SAINT-MICHEL ET RADE DE CANCALE;MONT SAINT-MICHEL ET RADE DE CACALE;Le Chatellier;Le Chatellier;;; ; ;2;48.71098;-1.8376036
 141;GRANDE RADE DE SAINT-MALO;GRANDE RADE DE SAINT-MALO;Grand Chevret;Grand Chevret;;; ; ;2;48.69856;-1.95393
@@ -140,15 +140,15 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 153;COTE DU GOELO;COTE DU GOELO;île Vierge;île Vierge;;; ; ;2;48.867177;-3.0569347
 154;COTE DU GOELO;COTE DU GOELO;îlot 2205;îlot 2205;;; ; ;2;48.86767;-3.055296
 155;COTE DU GOELO;COTE DU GOELO;îlot au NE de île Verte;îlot au NE de île Verte;;; ; ;2;48.8450307;-3.03085178
-156;COTE DU GOELO;COTE DU GOELO;îlot au sud de Roch ar Musig;îlot au sud de Roc'h ar Musig;;; ; ;2;48.846628;-3.03005536
+156;COTE DU GOELO;COTE DU GOELO;îlot au sud de Roch ar Musig;îlot au sud de Roch ar Musig;;; ; ;2;48.846628;-3.03005536
 157;RANCE FLUVIALE;RANCE FLUVIALE;La Hisse;La Hisse;;; ; ;2;48.598497;-2.0088136
-158;COTE OPALE;CÔTE D'OPALE;Marck;Marck;;;Hemmes de Marck;Hemmes de Marck;4;50.984595;1.918616
+158;COTE OPALE;CÔTE DOPALE;Marck;Marck;;;Hemmes de Marck;Hemmes de Marck;4;50.984595;1.918616
 160;RANCE FLUVIALE;RANCE FLUVIALE;Moulin Beauchet;Moulin Beauchet;;; ; ;2;48.5760645;-1.95570608
 161;PAYS PAGAN;PAYS PAGAN;Guisseny;Guisseny;;; ; ;2;48.63389766;-4.4353277
 162;RADE DE BREST;RADE DE BREST;Quai est du gabion;Quai est du gabion;;; ; ;2;48.38482861;-4.4595363
 163;COTE DU GOELO;COTE DU GOELO;3827;3827;;; ; ;2;48.8597388;-3.048143553
 164;SAINT-RENAN;SAINT-RENAN;Gymnase;Gymnase;;; ; ;2;48.4388854;-4.632379
-166;BAIE DU MONT-SAINT-MICHEL;BAIE DU MONT-SAINT-MICHEL;Île Tombelaine;Île Tombelaine;;;"Colonies naturelles	";"Colonies naturelles	";4;48.660114;-1.513175
+166;BAIE DU MONT-SAINT-MICHEL;BAIE DU MONT-SAINT-MICHEL;Île Tombelaine;Île Tombelaine;;;"Colonies naturelles ";"Colonies naturelles ";4;48.660114;-1.513175
 167;CALVADOS CÔTE DE NACRE;CALVADOS CÔTE DE NACRE;Ville de Courseulles-sur-Mer;Ville de Courseulles-sur-Mer;;;Colonies urbaines;Colonies urbaines;4;49.319891;-0.450739
 168;CÔTE OUEST COTENTIN;CÔTE OUEST COTENTIN;Centrale de Flamanville;Centrale de Flamanville;;; ; ;4;49.536646;-1.883066
 169;COTE EST-COTENTIN;CÔTE EST-COTENTIN;Ile Tatihou;Ile Tatihou;;;Colonies naturelles;Colonies naturelles;4;49.589133;-1.243162
@@ -185,28 +185,28 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 201;PAYS DE CAUX;PAYS DE CAUX;Ville de Eu;Ville de Eu;;;Colonies urbaines;Colonies urbaines;4;50.065177;1.433799
 202;PAYS DE CAUX;PAYS DE CAUX;Ville de Fécamp;Ville de Fécamp;;;Colonies urbaines;Colonies urbaines;4;49.75313;0.395944
 203;PAYS DE CAUX;PAYS DE CAUX;Ville de Saint-Valery-en-Caux;Ville de Saint-Valery-en-Caux;;;Colonies urbaines;Colonies urbaines;4;49.858385;0.709049
-205;PAYS DE CAUX;PAYS DE CAUX;Ville du Havre;Ville du Havre;;;"Colonies urbaines	";"Colonies urbaines	";4;49.499813;0.142773
+205;PAYS DE CAUX;PAYS DE CAUX;Ville du Havre;Ville du Havre;;;"Colonies urbaines ";"Colonies urbaines ";4;49.499813;0.142773
 207;RADE DE CHERBOURG;RADE DE CHERBOURG;Fort central;Fort central;;;Colonies naturelles;Colonies naturelles;4;49.674026;-1.619115
 208;RADE DE CHERBOURG;RADE DE CHERBOURG;Fort de Chavagnac;Fort de Chavagnac;;;Colonies naturelles;Colonies naturelles;4;49.670565;-1.664458
-209;RADE DE CHERBOURG;RADE DE CHERBOURG;Fort de l'Est;Fort de l'Est;;;Colonies naturelles;Colonies naturelles;4;49.671577;-1.59873
-210;RADE DE CHERBOURG;RADE DE CHERBOURG;Fort de l'île Pelée;Fort de l'île Pelée;;;Colonies naturelles;Colonies naturelles;4;49.670032;-1.583454
-211;RADE DE CHERBOURG;RADE DE CHERBOURG;Fort de l'Ouest;Fort de l'Ouest;;;Colonies naturelles;Colonies naturelles;4;49.674272;-1.647719
+209;RADE DE CHERBOURG;RADE DE CHERBOURG;Fort de lEst;Fort de lEst;;;Colonies naturelles;Colonies naturelles;4;49.671577;-1.59873
+210;RADE DE CHERBOURG;RADE DE CHERBOURG;Fort de lîle Pelée;Fort de lîle Pelée;;;Colonies naturelles;Colonies naturelles;4;49.670032;-1.583454
+211;RADE DE CHERBOURG;RADE DE CHERBOURG;Fort de lOuest;Fort de lOuest;;;Colonies naturelles;Colonies naturelles;4;49.674272;-1.647719
 212;RADE DE CHERBOURG;RADE DE CHERBOURG;Ville de Cherbourg-Octeville;Ville de Cherbourg-Octeville;;; ; ;4;49.637692;-1.631098
 213;REGION DES ABERS;REGION DES ABERS;aber Benoît;aber Benoît;;; ; ;2;48.5680726;-4.594874
-214;COTE D'OPALE;CÔTE D'OPALE;Calais;Calais;;; ; ;4;50.948407;1.853185
+214;COTE DOPALE;CÔTE DOPALE;Calais;Calais;;; ; ;4;50.948407;1.853185
 215;RADE DE BREST;RADE DE BREST;Brest_032;Brest_032;;; ; ;2;48.37792318;-4.478969
 217;RADE DE BREST;RADE DE BREST;Brest_2372;Brest_2372;;; ; ;2;48.385387;-4.460385
-218;COTE DU GOELO;COTE DU GOELO;10m SE de l'Île Vierge;10m SE de l'Île Vierge;;; ; ;2;48.863436;-3.0537503
+218;COTE DU GOELO;COTE DU GOELO;10m SE de lÎle Vierge;10m SE de lÎle Vierge;;; ; ;2;48.863436;-3.0537503
 219;COTE DU GOELO;COTE DU GOELO;Men ar Gouilh;Men ar Gouilh;;; ; ;2;48.847117;-3.015208
-220;COTE DU GOELO;COTE DU GOELO;Roch ar C'hroueier;Roch ar C'hroueier;;; ; ;2;48.825336;-3.03721498
+220;COTE DU GOELO;COTE DU GOELO;Roch ar Chroueier;Roch ar Chroueier;;; ; ;2;48.825336;-3.03721498
 221;COTE DU GOELO;COTE DU GOELO;12m ouest port de Guerzido;12m ouest port de Guerzido;;; ; ;2;48.8362222;-3.000801409
 222;COTE DU GOELO;COTE DU GOELO;Ar Wezenn;Ar Wezenn;;; ; ;2;48.8526688;-2.9801301
 223;COTE DU GOELO;COTE DU GOELO;caillou entre les Agneaux et les trois îles;caillou entre les Agneaux et les Trois îles;;; ; ;2;48.834869;-3.044579
-225;COTE DU GOELO;COTE DU GOELO;Ilot au NO de l'Ile O des trois îles;Ilot au NO de l'Ile O des Trois îles;;; ; ;2;48.84662854;-3.030553618
-226;COTE DU GOELO;COTE DU GOELO;Ilot au SO de Roc'h ar musig;Ilot au SO de Roc'h ar Musig;;; ; ;2;48.846433;-3.02600395
+225;COTE DU GOELO;COTE DU GOELO;Ilot au NO de lIle O des trois îles;Ilot au NO de lIle O des Trois îles;;; ; ;2;48.84662854;-3.030553618
+226;COTE DU GOELO;COTE DU GOELO;Ilot au SO de Roch ar musig;Ilot au SO de Roch ar Musig;;; ; ;2;48.846433;-3.02600395
 227;COTE DU GOELO;COTE DU GOELO;Rocher a 9m au SO de Modez;Rocher a 9m au SO de Modez;;; ; ;2;48.859738;-3.04814355
-228;COTE DU GOELO;COTE DU GOELO;Ile a l'ouest de la côte 13m au NO de la pointe SO de Modez;Ile a l'ouest de la côte 13m au NO de la pointe SO de Modez;;; ; ;2;48.8612356;-3.0468876
-229;COTE DU GOELO;COTE DU GOELO;Roc'h Kaer;Roc'h Kaer;;; ; ;2;48.8650178;-3.02498789
+228;COTE DU GOELO;COTE DU GOELO;Ile a louest de la côte 13m au NO de la pointe SO de Modez;Ile a louest de la côte 13m au NO de la pointe SO de Modez;;; ; ;2;48.8612356;-3.0468876
+229;COTE DU GOELO;COTE DU GOELO;Roch Kaer;Roch Kaer;;; ; ;2;48.8650178;-3.02498789
 230;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Ar Prizon;Ar Prizon;;;Colonies urbaines;Colonies urbaines;3;47.7291413143;-3.99972670715
 231;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Ar Fort;Ar Fort;;;Colonies urbaines;Colonies urbaines;3;47.7167245547;-3.99358283808
 232;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Brilineg;Brilineg;;;Colonies urbaines;Colonies urbaines;3;47.7038241131;-3.97954078855
@@ -214,7 +214,7 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 234;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Krugenn;Krugenn;;;Colonies urbaines;Colonies urbaines;3;47.7095730377;-4.01714691165
 235;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Enez Kignenek;Enez Kignenek;;;Colonies urbaines;Colonies urbaines;3;47.7091302854;-4.01388128623
 236;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Kastell Kignenek;Kastell Kignenek;;;Colonies urbaines;Colonies urbaines;3;47.7074480872;-4.03383020073
-237;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Roc'h ar C'haor;Roc'h ar C'haor;;;Colonies urbaines;Colonies urbaines;3;47.7244342518;-4.01159195235
+237;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Roch ar Chaor;Roch ar Chaor;;;Colonies urbaines;Colonies urbaines;3;47.7244342518;-4.01159195235
 238;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Kastell Braz;Kastell Braz;;;Colonies urbaines;Colonies urbaines;3;47.724797341;-4.03383020073
 239;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Enezenn Geotek;Enezenn Geotek;;;Colonies urbaines;Colonies urbaines;3;47.7128064234;-3.96604094716
 240;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Klud ar Yer;Klud ar Yer;;;Colonies urbaines;Colonies urbaines;3;47.7092535851;-3.95082330283
@@ -229,11 +229,11 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 249;ARCHIPEL DE MOLENE;ARCHIPEL DE MOLENE;Ledenez vras Balaneg;Ledenez vras Balaneg;;; ; ;2;48.4179653364;-5.02025481022
 250;RANCE FLUVIALE;RANCE FLUVIALE;Garel;Garel;;; ; ;2;48.574236;-1.99728
 251;COTE DU GOELO;COTE DU GOELO;îlot le plus loin du moulin à marée;îlot le plus loin du moulin à marée;;; ; ;2;48.8466648;-3.01172068
-252;REGION DES ABERS;REGION DES ABERS;Enez Terc'h;Enez Terc'h;;; ; ;2;48.60509;-4.567125
+252;REGION DES ABERS;REGION DES ABERS;Enez Terch;Enez Terch;;; ; ;2;48.60509;-4.567125
 253;BAIE DE MORLAIX;BAIE DE MORLAIX;Ar Geotennou/île Blanche;Ar Geotennou/île Blanche;;; ; ;2;48.8495259;-3.01827178
-254;BAIE DE MORLAIX;BAIE DE MORLAIX;Ar C'haro/Le Cerf;Ar C'haro/Le Cerf;;; ; ;2;48.694642;-3.9127
-255;COTE DU GOELO;COTE DU GOELO;Roc'h Drainsec ouest;Roc'h Drainsec ouest;;; ; ;2;48.8495259;-3.01827178
-256;REGION DES ABERS;REGION DES ABERS;pontons entre Stellac'h et Porz ar Villi;pontons entre Stellac'h et Porz ar Villi;;; ; ;2;48.56807;-4.59487
+254;BAIE DE MORLAIX;BAIE DE MORLAIX;Ar Charo/Le Cerf;Ar Charo/Le Cerf;;; ; ;2;48.694642;-3.9127
+255;COTE DU GOELO;COTE DU GOELO;Roch Drainsec ouest;Roch Drainsec ouest;;; ; ;2;48.8495259;-3.01827178
+256;REGION DES ABERS;REGION DES ABERS;pontons entre Stellach et Porz ar Villi;pontons entre Stellach et Porz ar Villi;;; ; ;2;48.56807;-4.59487
 257;GROIX;GROIX;Beg Melen-Pen Men;Beg Melen-Pen Men;;; ; ;3;48.65527;-3.503906
 259;BAIE DE QUIBERON;BAIE DE QUIBERON;Meaban;Meaban;;; ; ;3;47.5289;-2.9461897
 260;SEIN ET CHAUSSEE;SEIN ET CHAUSSEE;SEIN ET CHAUSSEE;SEIN ET CHAUSSEE;;; ; ;2;47.5289;-4.9461897
@@ -244,8 +244,8 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 265;CALVADOS CÔTE DE NACRE;CALVADOS CÔTE DE NACRE;Merville - Franceville Gros Banc;Merville - Franceville Gros Banc;;;Colonies naturelles;Colonies naturelles;4;49.276856;-0.218974
 266;CALVADOS CÔTE DE NACRE;CALVADOS CÔTE DE NACRE;Graye-sur-Mer Château;Graye-sur-Mer Château;;;Colonies urbaines;Colonies urbaines;4;49.330305;-0.470432
 267;CALVADOS CÔTE DE NACRE;CALVADOS CÔTE DE NACRE;Port-en-Bessin;Port-en-Bessin;;;Colonies urbaines;Colonies urbaines;4;49.37747;-0.75581
-268;CALVADOS CÖTE FLEURIE;CALVADOS CÖTE FLEURIE;Ville de Deauville;Ville de Deauville;;;"Colonies urbaines	";"Colonies urbaines	";4;49.361354;0.064894
-269;CALVADOS CÖTE FLEURIE;CALVADOS CÖTE FLEURIE;Ville de trouville;Ville de Trouville ;;;"Colonies urbaines	";"Colonies urbaines	";4;49.380096;0.091788
+268;CALVADOS CÖTE FLEURIE;CALVADOS CÖTE FLEURIE;Ville de Deauville;Ville de Deauville;;;"Colonies urbaines ";"Colonies urbaines ";4;49.361354;0.064894
+269;CALVADOS CÖTE FLEURIE;CALVADOS CÖTE FLEURIE;Ville de trouville;Ville de Trouville ;;;"Colonies urbaines ";"Colonies urbaines ";4;49.380096;0.091788
 270;CÔTE EST-COTENTIN;CÔTE EST-COTENTIN;Saint-Vaast-la-Hougue;Saint-Vaast-la-Hougue;;;Colonies urbaines;Colonies urbaines;4;49.588144;-1.268436
 271;CÔTE OUEST COTENTIN;CÔTE OUEST COTENTIN;Falaises de Flamanville;Falaises de Flamanville;;;Colonies naturelles;Colonies naturelles;4;49.519769;-1.88175
 272;CÔTE OUEST COTENTIN;CÔTE OUEST COTENTIN;Geffosses;Geffosses;;;Colonies naturelles;Colonies naturelles;4;49.13992;-1.585588
@@ -264,7 +264,7 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 285;LA HAGUE;LA HAGUE;Jobourg sud & Herqueville;Jobourg sud & Herqueville;;;Colonies naturelles;Colonies naturelles;4;49.666396;-1.917108
 286;LA HAGUE;LA HAGUE;Les Bréquets;Les Bréquets;;;Colonies naturelles;Colonies naturelles;4;49.664882;-1.92392
 287;LA HAGUE;LA HAGUE;Nez de Jobourg nord;Nez de Jobourg nord;;;Colonies naturelles;Colonies naturelles;4;49.705936;-1.955651
-288;PAYS DE CAUX;PAYS DE CAUX;Port d'Antifer;Port d'Antifer;;;Colonies naturelles;Colonies naturelles;4;49.659492;0.153295
+288;PAYS DE CAUX;PAYS DE CAUX;Port dAntifer;Port dAntifer;;;Colonies naturelles;Colonies naturelles;4;49.659492;0.153295
 289;PAYS DE CAUX;PAYS DE CAUX;Bénouville-Etretat;Bénouville-Etretat;;;Colonies naturelles;Colonies naturelles;4;49.718775;0.221298
 290;PAYS DE CAUX;PAYS DE CAUX;Cauville-en-mer - Octeville-sur-mer;Cauville-en-mer - Octeville-sur-mer;;; ; ;4;49.5784;0.102577
 291;PAYS DE CAUX;PAYS DE CAUX;Etretat;Etretat;;;Colonies urbaines;Colonies urbaines;4;49.7064;0.2
@@ -294,24 +294,24 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 318;BAIE DE GOULVEN;BAIE DE GOULVEN;Trez Mean Melen;Mean Melen;;; ; ;2;48.65498571;-4.268143296
 319;BAIE DE GOULVEN;BAIE DE GOULVEN;Gaouloc;Gaouloc;;; ; ;2;48.67182455;-4.292920735
 320;BAIE DE MORLAIX;BAIE DE MORLAIX;Ar Beg Lemm;Ar Beg Lemm;;; ; ;2;48.69327;-3.88556
-321;BAIE DE MORLAIX;BAIE DE MORLAIX;Ar C'hlaz;Ar C'hlaz;;; ; ;2;48.70285;-3.90964
-322;BAIE DE MORLAIX;BAIE DE MORLAIX;Roc'h velen;Roc'h velen;;; ; ;2;48.70201;-3.85559
-323;BAIE DE MORLAIX;BAIE DE MORLAIX;Toullig Arc'han;Toullig Arc'han;;; ; ;2;48.70109;-3.90896
+321;BAIE DE MORLAIX;BAIE DE MORLAIX;Ar Chlaz;Ar Chlaz;;; ; ;2;48.70285;-3.90964
+322;BAIE DE MORLAIX;BAIE DE MORLAIX;Roch velen;Roch velen;;; ; ;2;48.70201;-3.85559
+323;BAIE DE MORLAIX;BAIE DE MORLAIX;Toullig Archan;Toullig Archan;;; ; ;2;48.70109;-3.90896
 324;BAIE DE MORLAIX;BAIE DE MORLAIX;Ar Vezou;Ar Vezou;;; ; ;2;48.70608;-3.90388
 325;BAIE DE MORLAIX;BAIE DE MORLAIX;Enez an Trez;Enez an Trez;;; ; ;2;48.68151;-3.88428
 326;BAIE DE MORLAIX;BAIE DE MORLAIX;Ile Noire;Ile Noire;;; ; ;2;48.67259;-3.87545
 327;BAIE DE MORLAIX;BAIE DE MORLAIX;Le Chateau du Taureau;Le Chateau du Taureau;;; ; ;2;48.67578;-3.88434
 328;BAIE DE MORLAIX;BAIE DE MORLAIX;Enez Louet;Enez Louet;;; ; ;2;48.67344;-3.88864
 329;BAIE DE MORLAIX;BAIE DE MORLAIX;Gouesles;Gouesles;;; ; ;2;48.69528;-3.88803
-330;BAIE DE MORLAIX;BAIE DE MORLAIX;Kastell ar C'hlaz;Kastell ar C'hlaz;;; ; ;2;48.69971;-3.90708
-331;BAIE DE MORLAIX;BAIE DE MORLAIX;Ar C'hlaz Koz;Ar C'hlaz Koz;;; ; ;2;48.7039;-3.9116
+330;BAIE DE MORLAIX;BAIE DE MORLAIX;Kastell ar Chlaz;Kastell ar Chlaz;;; ; ;2;48.69971;-3.90708
+331;BAIE DE MORLAIX;BAIE DE MORLAIX;Ar Chlaz Koz;Ar Chlaz Koz;;; ; ;2;48.7039;-3.9116
 332;BAIE DE SAINT-BRIEUC;BAIE DE SAINT-BRIEUC;Langueux;Langueux;;; ; ;2;48.50270988;-2.70944782
 333;BAIE DE SAINT-BRIEUC;BAIE DE SAINT-BRIEUC;Pléneuf-Val-André;Pléneuf-Val-André;;; ; ;2;48.5850279;-2.531385743
 334;BAIE DE SAINT-BRIEUC;BAIE DE SAINT-BRIEUC;BAIE DE SAINT-BRIEUC;BAIE DE SAINT-BRIEUC;;; ; ;2;48.51054624;-2.760786544
 335;CAP SIZUN;CAP SIZUN;Douarnenez;Douarnenez;;; ; ;2;48.08152364;-4.300371249
-336;CAP SIZUN;CAP SIZUN;Bae an Anaon à Anse du Loc'h;Bae an Anaon à Anse du Loc'h;;; ; ;2;48.0266651;-4.68059446
+336;CAP SIZUN;CAP SIZUN;Bae an Anaon à Anse du Loch;Bae an Anaon à Anse du Loch;;; ; ;2;48.0266651;-4.68059446
 337;CAP SIZUN;CAP SIZUN;Beg Lesveen à Beg Ker Riwall;Beg Lesveen à Beg Ker Riwall;;; ; ;2;48.07945022;-4.561812258
-338;CAP SIZUN;CAP SIZUN;Beg Penn C'harn à Bae an Anaon;Beg Penn C'harn à Bae an Anaon;;; ; ;2;48.04108229;-4.728924225
+338;CAP SIZUN;CAP SIZUN;Beg Penn Charn à Bae an Anaon;Beg Penn Charn à Bae an Anaon;;; ; ;2;48.04108229;-4.728924225
 339;CAP SIZUN;CAP SIZUN;Douarnenez à Beg Ker Riwall;Douarnenez à Beg Ker Riwall;;; ; ;2;48.09204456;-4.47930157
 340;CAP SIZUN;CAP SIZUN;Goulien-Réserve du Cap Sizun;Goulien-Réserve du Cap Sizun;;; ; ;2;48.07348501;-4.610310222
 341;CAP SIZUN;CAP SIZUN;Ile Tristan;Ile Tristan;;; ; ;2;48.10156953;-4.337133746
@@ -330,49 +330,49 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 354;GRANDE RADE DE SAINT-MALO;GRANDE RADE DE SAINT-MALO;Le Grand et le Petit Davier;Le Grand et le Petit Davier;;; ; ;2;48.67613806;-1.99595294
 355;GRANDE RADE DE SAINT-MALO;GRANDE RADE DE SAINT-MALO;Le Haumet;Le Haumet;;; ; ;2;48.6536611;-2.090533396
 356;GRANDE RADE DE SAINT-MALO;GRANDE RADE DE SAINT-MALO;Les Haies de la de la Conchée;Les Haies de la Conchée;;; ; ;2;48.68780407;-2.046690952
-357;GRANDE RADE DE SAINT-MALO;GRANDE RADE DE SAINT-MALO;retenue de la rance - ducs d'albe;retenue de la rance - ducs d'Albe;;; ; ;2;48.6180881;-2.028459434
+357;GRANDE RADE DE SAINT-MALO;GRANDE RADE DE SAINT-MALO;retenue de la rance - ducs dalbe;retenue de la rance - ducs dAlbe;;; ; ;2;48.6180881;-2.028459434
 358;GRANDE RADE DE SAINT-MALO;GRANDE RADE DE SAINT-MALO;ville de Saint-Malo;ville de Saint-Malo;;; ; ;2;48.64963077;-1.968184435
 359;ILE DE BATZ;ILE DE BATZ;Enez Piged;Enez Piged;;; ; ;2;48.732884;-3.97036843
 360;ILE DE BATZ;ILE DE BATZ;An Aered Vraz;An Aered Vraz;;; ; ;2;48.72084528;-4.036092792
 361;ILE DE BATZ;ILE DE BATZ;An Touilh Côte;An Touilh Côte;;; ; ;2;48.72039775;-4.042980888
 362;ILE DE BATZ;ILE DE BATZ;Anse du pouldu Santec roche côte 15;Anse du Pouldu Santec roche côte 15;;; ; ;2;48.71507866;-4.02688967
 363;ILE DE BATZ;ILE DE BATZ;Ar Buzog;Ar Buzog;;; ; ;2;48.71094803;-4.064063316
-364;ILE DE BATZ;ILE DE BATZ;Ar C'heol Vihan;Ar C'heol Vihan;;; ; ;2;48.71602683;-4.04797862
-365;ILE DE BATZ;ILE DE BATZ;Ar C'heol Vraz;Ar C'heol Vraz;;; ; ;2;48.71584043;-4.049092352
+364;ILE DE BATZ;ILE DE BATZ;Ar Cheol Vihan;Ar Cheol Vihan;;; ; ;2;48.71602683;-4.04797862
+365;ILE DE BATZ;ILE DE BATZ;Ar Cheol Vraz;Ar Cheol Vraz;;; ; ;2;48.71584043;-4.049092352
 366;ILE DE BATZ;ILE DE BATZ;Ar Vin Gam;Ar Vin Gam;;; ; ;2;48.70875796;-4.075258244
-367;ILE DE BATZ;ILE DE BATZ;Ar Vuoc'h;Ar Vuoc'h;;; ; ;2;48.72179024;-4.037840381
+367;ILE DE BATZ;ILE DE BATZ;Ar Vuoch;Ar Vuoch;;; ; ;2;48.72179024;-4.037840381
 368;ILE DE BATZ;ILE DE BATZ;Ar Wiz Koz;Ar Wiz Koz;;; ; ;2;48.72137338;-4.045748357
 369;ILE DE BATZ;ILE DE BATZ;Azkeiz;Azkeiz;;; ; ;2;48.7308135;-4.022547274
-370;ILE DE BATZ;ILE DE BATZ;Beg Seac'h-Pointe W Batz;Beg Seac'h-Pointe W Batz;;; ; ;2;48.74564006;-4.039665437
+370;ILE DE BATZ;ILE DE BATZ;Beg Seach-Pointe W Batz;Beg Seach-Pointe W Batz;;; ; ;2;48.74564006;-4.039665437
 371;ILE DE BATZ;ILE DE BATZ;Centre H;Centre H;;; ; ;2;48.7228789;-4.006522464
 372;ILE DE BATZ;ILE DE BATZ;Côte 8 près de roche St Jean sur la plage CHM;Côte 8 près de roche St Jean sur la plage CHM;;; ; ;2;48.72025955;-4.01265329
 373;ILE DE BATZ;ILE DE BATZ;Côte île de Batz face à E. Denved;Côte île de Batz face à E. Denved;;; ; ;2;48.7407487;-4.000284585
-374;ILE DE BATZ;ILE DE BATZ;Enez An N'ein;Enez An N'ein;;; ; ;2;48.74134171;-4.009686748
+374;ILE DE BATZ;ILE DE BATZ;Enez An Nein;Enez An Nein;;; ; ;2;48.74134171;-4.009686748
 375;ILE DE BATZ;ILE DE BATZ;Enez Ar Prad;Enez Ar Prad;;; ; ;2;48.75361006;-4.028209139
 376;ILE DE BATZ;ILE DE BATZ;Enez Denved;Enez Denved;;; ; ;2;48.73970452;-4.001368907
 377;ILE DE BATZ;ILE DE BATZ;Enez Glas;Enez Glas;;; ; ;2;48.71368689;-4.04856267
 378;ILE DE BATZ;ILE DE BATZ;Enez Glas Rosko;Enez Glas Rosko;;; ; ;2;98742555;-3
 379;ILE DE BATZ;ILE DE BATZ;Enez Ledanet;Enez Ledanet;;; ; ;2;48.7291075;-4.004698333
 380;ILE DE BATZ;ILE DE BATZ;Enez Vey;Enez Vey;;; ; ;2;48.74466707;-3.981499192
-381;ILE DE BATZ;ILE DE BATZ;Golc'hedeg;Golc'hedeg;;; ; ;2;76809334;-4
+381;ILE DE BATZ;ILE DE BATZ;Golchedeg;Golchedeg;;; ; ;2;76809334;-4
 382;ILE DE BATZ;ILE DE BATZ;Île Keffen canot de sauvetage idb;Île Keffen canot de sauvetage idb;;; ; ;2;48.70724909;-4.017386678
 383;ILE DE BATZ;ILE DE BATZ;Îlot 10 / Anse de Lannou Bihan;Îlot 10 / Anse de Lannou Bihan;;; ; ;2;48.74072628;-4.030907113
 384;ILE DE BATZ;ILE DE BATZ;Îlot Ouest Penn Leog;Îlot Ouest Penn Leog;;; ; ;2;48.73850041;-3.99870684
 385;ILE DE BATZ;ILE DE BATZ;Kernok;Kernok;;; ; ;2;48.74042622;-4.011997173
-386;ILE DE BATZ;ILE DE BATZ;Kilvic'hi Bras;Kilvic'hi Bras;;; ; ;2;48.72095336;-4.042710384
-387;ILE DE BATZ;ILE DE BATZ;Kloc'h Gwenn;Kloc'h Gwenn;;; ; ;2;48.71694431;-4.050001771
-388;ILE DE BATZ;ILE DE BATZ;Penn ar C'hleguer pointe SE Batz;Penn ar C'hleguer pointe SE Batz;;; ; ;2;48.74121275;-3.989753332
+386;ILE DE BATZ;ILE DE BATZ;Kilvichi Bras;Kilvichi Bras;;; ; ;2;48.72095336;-4.042710384
+387;ILE DE BATZ;ILE DE BATZ;Kloch Gwenn;Kloch Gwenn;;; ; ;2;48.71694431;-4.050001771
+388;ILE DE BATZ;ILE DE BATZ;Penn ar Chleguer pointe SE Batz;Penn ar Chleguer pointe SE Batz;;; ; ;2;48.74121275;-3.989753332
 389;ILE DE BATZ;ILE DE BATZ;Pil An Ugent Van;Pil An Ugent Van;;; ; ;2;48.71479226;-4.050889242
 390;ILE DE BATZ;ILE DE BATZ;Pil Kolaz;Pil Kolaz;;; ; ;2;48.72134096;-4.046522687
 391;ILE DE BATZ;ILE DE BATZ;Propriété Pointe Est Île Aux Moutons;Propriété Pointe Est Île Aux Moutons;;; ; ;2;48.74076998;-4.005723387
-392;ILE DE BATZ;ILE DE BATZ;Rec'Hier Don;Rec'Hier Don;;; ; ;2;48.72221667;-4.052323488
-393;ILE DE BATZ;ILE DE BATZ;Roc'h Ar Bleiz;Roc'h Ar Bleiz;;; ; ;2;48.7312945;-4.003549457
-394;ILE DE BATZ;ILE DE BATZ;Roc'h Ar Skoul Vras;Roc'h Ar Skoul Vras;;; ; ;2;48.7312945;-4.003549457
-395;ILE DE BATZ;ILE DE BATZ;Roc'h Ar Louet;Roc'h Louet;;; ; ;2;48.71574911;-4.042016624
-396;ILE DE BATZ;ILE DE BATZ;Roc'h Radeneg Bihan;Roc'h Radeneg Bihan;;; ; ;2;48.72133704;-4.019344355
-397;ILE DE BATZ;ILE DE BATZ;Roc'h Santeg Leton;Roc'h Santeg Leton;;; ; ;2;48.71395513;-4.05333971
-398;ILE DE BATZ;ILE DE BATZ;Roc'h Santeg Vihan;Roc'h Santeg Vihan;;; ; ;2;48.71399196;-4.051707092
-399;ILE DE BATZ;ILE DE BATZ;Roc'h Santeg Vras;Roc'h Santeg Vras;;; ; ;2;48.71521691;-4.054386781
+392;ILE DE BATZ;ILE DE BATZ;RecHier Don;RecHier Don;;; ; ;2;48.72221667;-4.052323488
+393;ILE DE BATZ;ILE DE BATZ;Roch Ar Bleiz;Roch Ar Bleiz;;; ; ;2;48.7312945;-4.003549457
+394;ILE DE BATZ;ILE DE BATZ;Roch Ar Skoul Vras;Roch Ar Skoul Vras;;; ; ;2;48.7312945;-4.003549457
+395;ILE DE BATZ;ILE DE BATZ;Roch Ar Louet;Roch Louet;;; ; ;2;48.71574911;-4.042016624
+396;ILE DE BATZ;ILE DE BATZ;Roch Radeneg Bihan;Roch Radeneg Bihan;;; ; ;2;48.72133704;-4.019344355
+397;ILE DE BATZ;ILE DE BATZ;Roch Santeg Leton;Roch Santeg Leton;;; ; ;2;48.71395513;-4.05333971
+398;ILE DE BATZ;ILE DE BATZ;Roch Santeg Vihan;Roch Santeg Vihan;;; ; ;2;48.71399196;-4.051707092
+399;ILE DE BATZ;ILE DE BATZ;Roch Santeg Vras;Roch Santeg Vras;;; ; ;2;48.71521691;-4.054386781
 400;ILE DE BATZ;ILE DE BATZ;Roche Saint-Jean;Roche Saint-Jean;;; ; ;2;48.71917389;-4.015447285
 401;ILE DE BATZ;ILE DE BATZ;Roche Sud an Aered côte 11;Roche Sud an Aered côte 11;;; ; ;2;48.7192499;-4.036458259
 402;ILE DE BATZ;ILE DE BATZ;Roscoff;Roscoff;;; ; ;2;48.71474295;-3.98655724
@@ -380,11 +380,11 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 404;ILE DE BATZ;ILE DE BATZ;Toul ar Zarpant;Toul Ar Zarpant;;; ; ;2;48.74733592;-4.037651263
 405;ILE DE BATZ;ILE DE BATZ;Toull Derrien;Toull Derrien;;; ; ;2;48.72682171;-4.013198032
 406;LE FOUR;LE FOUR;Ar Melgorn Bras, roche principale;Ar Melgorn Bras, roche principale;;; ; ;2;48.51633764;-4.782850625
-407;LE FOUR;LE FOUR;Beg Ar Garc'hine, roche principale;Beg Ar Garc'hine, roche principale;;; ; ;2;48.50371046;-4.778252836
+407;LE FOUR;LE FOUR;Beg Ar Garchine, roche principale;Beg Ar Garchine, roche principale;;; ; ;2;48.50371046;-4.778252836
 408;LE FOUR;LE FOUR;Enez Tegiog, roche principale;Enez Tegiog, roche principale;;; ; ;2;48.52896992;-4.775340995
 409;LE FOUR;LE FOUR;Gwaltog, roche principale;Gwaltog, roche principale;;; ; ;2;48.4288128;-4.798437354
 410;LE FOUR;LE FOUR;Mousou Bras, roche principale;Mouzou Bras, roche principale;;; ; ;2;48.5102612;-4.776183587
-411;LE FOUR;LE FOUR;Pointe nw Presqu'ile Saint-Laurent;Pointe nw Presqu'Ile Saint-Laurent;;; ; ;2;48.51930206;-4.776163039
+411;LE FOUR;LE FOUR;Pointe nw Presquile Saint-Laurent;Pointe nw PresquIle Saint-Laurent;;; ; ;2;48.51930206;-4.776163039
 412;MONT SAINT MICHEL ET RADE DE CANCALE;MONT SAINT MICHEL ET RADE DE CANCALE;Falaises de Port Pican;Falaises de Port Pican;;; ; ;2;48.69629064;-1.845209141
 413;MONT SAINT MICHEL ET RADE DE CANCALE;MONT SAINT MICHEL ET RADE DE CANCALE;Ile des Rimains;Ile des Rimains;;; ; ;2;48.68174921;-1.826721904
 415;MONT SAINT MICHEL ET RADE DE CANCALE;MONT SAINT MICHEL ET RADE DE CANCALE;Le Rocher de Cancale;Le Rocher de Cancale;;; ; ;2;48.67936693;-1.830816241
@@ -393,13 +393,13 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 418;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Enez ar Bougeviou Glaz;Enez ar Bougeviou Glaz;;; ; ;2;48.48139606;-5.061715277
 419;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Keller;Keller;;; ; ;2;48.479943;-5.097179635
 420;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Ledenez Porz Goret;Ledenez Porz Goret;;; ; ;2;48.44122761;-5.114184443
-421;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Littoral de l'Ile;Littoral de l'Ile;;; ; ;2;48.46440319;-5.049549592
+421;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Littoral de lIle;Littoral de lIle;;; ; ;2;48.46440319;-5.049549592
 422;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Penn ar Men Du;Penn ar Men Du;;; ; ;2;48.4815155;-5.076427511
-423;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Roc'h Mell;Roc'h Mell;;; ; ;2;48.48581179;-5.069924031
-424;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Roc'h Nell;Roc'h Nell;;; ; ;2;48.43956285;-5.086680212
+423;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Roch Mell;Roch Mell;;; ; ;2;48.48581179;-5.069924031
+424;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Roch Nell;Roch Nell;;; ; ;2;48.43956285;-5.086680212
 425;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Roches de Yusin-Korn Héré;Roches de Yusin-Korn Héré;;; ; ;2;48.47324511;-5.105500758
-426;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Youc'h d'Arland;Youc'h d'Arland;;; ; ;2;48.45760231;-5.035077375
-427;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Youc'h Korz;Youc'h Korz;;; ; ;2;48.44555493;-5.116599886
+426;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Youch dArland;Youch dArland;;; ; ;2;48.45760231;-5.035077375
+427;OUESSANT ET DEPENDANCES;OUESSANT ET DEPENDANCES;Youch Korz;Youch Korz;;; ; ;2;48.44555493;-5.116599886
 428;PAYS PAGAN;PAYS PAGAN;Al Louet;Al Louet;;; ; ;2;48.67829092;-4.365378911
 429;PAYS PAGAN;PAYS PAGAN;Ar Vorbic;Ar Vorbic;;; ; ;2;48.66581068;-4.386895436
 430;PAYS PAGAN;PAYS PAGAN;Beg Pol;Beg Pol;;; ; ;2;48.67810532;-4.346482804
@@ -421,7 +421,7 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 446;POINTE SAINT-MATHIEU;POINTE SAINT-MATHIEU;Pointe de Pen Hir Pointe de Pen Ar Vir;Pointe de Pen Hir Pointe de Pen Ar Vir;;; ; ;2;48.17120216;-4.558230802
 447;POINTE SAINT-MATHIEU;POINTE SAINT-MATHIEU;An Daoue Vihan;An Daoue Vihan;;; ; ;2;48.25148138;-4.623258077
 448;POINTE SAINT-MATHIEU;POINTE SAINT-MATHIEU;An Daoue Vras;An Daoue Vras;;; ; ;2;48.25405594;-4.622020351
-449;POINTE SAINT-MATHIEU;POINTE SAINT-MATHIEU;Ar Benn C'hlas;Ar Benn C'hlas;;; ; ;2;48.25024881;-4.626252047
+449;POINTE SAINT-MATHIEU;POINTE SAINT-MATHIEU;Ar Benn Chlas;Ar Benn Chlas;;; ; ;2;48.25024881;-4.626252047
 450;POINTE SAINT-MATHIEU;POINTE SAINT-MATHIEU;Ar Benn Ed;Ar Benn Ed;;; ; ;2;48.24709969;-4.633371769
 451;POINTE SAINT-MATHIEU;POINTE SAINT-MATHIEU;Ar Berniou Pez Toull ar Gest;Ar Berniou Pez Toull Ar Gest;;; ; ;2;633060602;-4
 452;POINTE SAINT-MATHIEU;POINTE SAINT-MATHIEU;Ar Chelod;Ar Chelod;;; ; ;2;48.24977517;-4.628629787
@@ -439,33 +439,33 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 464;RADE DE BREST;RADE DE BREST;Enez Treberon;Enez Treberon;;; ; ;2;48.30333923;-4.537222016
 465;RADE DE BREST;RADE DE BREST;Enez Varo;Enez Varo;;; ; ;2;48.30537227;-4.53016247
 466;REGION DES ABERS;REGION DES ABERS;An Dord;An Dord;;; ; ;2;48.58715658;-4.640610332
-467;REGION DES ABERS;REGION DES ABERS;An Enez Vihan Trevorc'h;An Enez Vihan Trevorc'h;;; ; ;2;48.58821589;-4.641241571
-468;REGION DES ABERS;REGION DES ABERS;An Enez Vras Trevorc'h;An Enez Vras Trevorc'h;;; ; ;2;48.5862264;-4.641052568
-469;REGION DES ABERS;REGION DES ABERS;Ar C'hastell;Ar C'hastell;;; ; ;2;48.62978044;-4.582082388
-470;REGION DES ABERS;REGION DES ABERS;Ar Yuc'h;Ar Yuc'h;;; ; ;2;48.62594104;-4.602537358
-471;REGION DES ABERS;REGION DES ABERS;Enez C'hlas;Enez C'hlas;;; ; ;2;48.56543309;-4.726277992
+467;REGION DES ABERS;REGION DES ABERS;An Enez Vihan Trevorch;An Enez Vihan Trevorch;;; ; ;2;48.58821589;-4.641241571
+468;REGION DES ABERS;REGION DES ABERS;An Enez Vras Trevorch;An Enez Vras Trevorch;;; ; ;2;48.5862264;-4.641052568
+469;REGION DES ABERS;REGION DES ABERS;Ar Chastell;Ar Chastell;;; ; ;2;48.62978044;-4.582082388
+470;REGION DES ABERS;REGION DES ABERS;Ar Yuch;Ar Yuch;;; ; ;2;48.62594104;-4.602537358
+471;REGION DES ABERS;REGION DES ABERS;Enez Chlas;Enez Chlas;;; ; ;2;48.56543309;-4.726277992
 472;REGION DES ABERS;REGION DES ABERS;Enez Geignog;Enez Geignog;;; ; ;2;48.60049001;-4.636089321
 473;REGION DES ABERS;REGION DES ABERS;Enez Groaz;Enez Groaz;;; ; ;2;48.6142247;-4.604092787
 474;REGION DES ABERS;REGION DES ABERS;Enez Reservo;Enez Reservo;;; ; ;2;48.58303408;-4.671135823
 475;REGION DES ABERS;REGION DES ABERS;Enez Stagaden;Enez Stagaden;;; ; ;2;48.62413477;-4.59436865
 476;REGION DES ABERS;REGION DES ABERS;Tarieg;Enez Tarieg;;; ; ;2;48.60059277;-4.622353552
 477;REGION DES ABERS;REGION DES ABERS;Tarieg;Enez Valan;;; ; ;2;48.63467534;-4.572683428
-478;REGION DES ABERS;REGION DES ABERS;Werc'h;Enez Werc'h;;; ; ;2;48.63882281;-4.568802291
-479;REGION DES ABERS;REGION DES ABERS;îlots hors Trevorc'h;Îlots hors Trevorc'h;;; ; ;2;48.59222276;-4.612803332
+478;REGION DES ABERS;REGION DES ABERS;Werch;Enez Werch;;; ; ;2;48.63882281;-4.568802291
+479;REGION DES ABERS;REGION DES ABERS;îlots hors Trevorch;Îlots hors Trevorch;;; ; ;2;48.59222276;-4.612803332
 480;REGION DES ABERS;REGION DES ABERS;Karreg Men Ozou;Karreg Men Ozou;;; ; ;2;48.63132442;-4.560594156
 481;REGION DES ABERS;REGION DES ABERS;Kern ar Gwenn;Kern Ar Gwenn;;; ; ;2;48.58303408;-4.671135823
 482;REGION DES ABERS;REGION DES ABERS;Lezenn;Lezenn;;; ; ;2;48.63186773;-4.583362339
-483;REGION DES ABERS;REGION DES ABERS;Men Kac'het;Men Kac'het;;; ; ;2;48.63421009;-4.587517094
+483;REGION DES ABERS;REGION DES ABERS;Men Kachet;Men Kachet;;; ; ;2;48.63421009;-4.587517094
 484;REGION DES ABERS;REGION DES ABERS;Men Louet;Men Louet;;; ; ;2;48.56532386;-4.721038048
 485;REGION DES ABERS;REGION DES ABERS;Trellam;Trellam;;; ; ;2;48.6045372;-4.62526842
 486;TREGOR NORD;TREGOR NORD;Taveeg;Taveeg;;; ; ;2;48.83674835;-3.407125301
-487;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Ar Bouc'h;Ar Bouc'h;;;Colonies urbaines;Colonies urbaines;3;49.637692;-1.631098
+487;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Ar Bouch;Ar Bouch;;;Colonies urbaines;Colonies urbaines;3;49.637692;-1.631098
 488;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Ar Gloued;Ar Gloued;;;Colonies naturelles;Colonies naturelles;3;49.34627;-0.651858
 489;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Ar Gurunenn Zabl;Ar Gurunenn Zabl;;;Colonies naturelles;Colonies naturelles;3;49.396075;-0.626981
 490;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Ar Run;Ar Run;;;Colonies naturelles;Colonies naturelles;3;49.5784;0.102577
 491;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Enez ar Razed;Enez ar Razed;;;Colonies naturelles;Colonies naturelles;3;49.536646;-1.883066
 492;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Enez Penn-Fret;Enez Penn-Fret;;;Colonies naturelles;Colonies naturelles;3;49.396501;-0.953659
-493;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Enezenn Al Loc'h;Enezenn Al Loc'h;;;Colonies naturelles;Colonies naturelles;3;49.519769;-1.88175
+493;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Enezenn Al Loch;Enezenn Al Loch;;;Colonies naturelles;Colonies naturelles;3;49.519769;-1.88175
 494;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Enezenn Sant Nikolaz;Enezenn Sant Nikolaz;;;Colonies naturelles;Colonies naturelles;3;49.497897;0.366251
 495;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Glenen Goz;Glenen Goz;;;Colonies naturelles;Colonies naturelles;3;49.13992;-1.585588
 496;ARCHIPEL DE GLENAN;ARCHIPEL DE GLENAN;Ilot Ouest de Karreg Meilh Koz;Ilot Ouest de Karreg Meilh Koz;;;Colonies urbaines;Colonies urbaines;3;48.837704;-1.59732
@@ -500,7 +500,7 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 525;Falaises du Bessin oriental;Falaises du Bessin oriental;Arromanches-Longues / Cap Manvieux;Arromanches-Longues / Cap Manvieux;;;Colonies naturelles;Colonies naturelles;4;49.34627;-0.651858
 526;Falaises du Bessin oriental;Falaises du Bessin oriental;Arromanches ponton;Arromanches ponton;;;Colonies naturelles;Colonies naturelles;4;49.396075;-0.626981
 527;PAYS DE CAUX;PAYS DE CAUX;Cauville-sur-Mer - Octeville-sur-Mer;Cauville-sur-Mer - Octeville-sur-Mer;;;Colonies naturelles;Colonies naturelles;4;49.5784;0.102577
-528;CÔTE OUEST-COTENTIN;CÔTE OUEST-COTENTIN;Centrale  et ponton mine de Flamanville;Centrale  et ponton mine de Flamanville;;;Colonies naturelles;Colonies naturelles;4;49.536646;-1.883066
+528;CÔTE OUEST-COTENTIN;CÔTE OUEST-COTENTIN;Centrale et ponton mine de Flamanville;Centrale et ponton mine de Flamanville;;;Colonies naturelles;Colonies naturelles;4;49.536646;-1.883066
 529;ESTUAIRE SEINE;ESTUAIRE SEINE;Falaises rive droite Seine (St-Vigor & Gonfreville);Falaises rive droite Seine (St-Vigor & Gonfreville);;;Colonies naturelles;Colonies naturelles;4;49.497897;0.366251
 530;ÎLES SAINT-MARCOUF;ÎLES SAINT-MARCOUF;Île de Terre;Île de Terre;;;Colonies naturelles;Colonies naturelles;4;49.493437;-1.154712
 531;ÎLES SAINT-MARCOUF;ÎLES SAINT-MARCOUF;Île du Large;Île du Large;;;Colonies naturelles;Colonies naturelles;4;49.497966;-1.146308
@@ -510,20 +510,20 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 535;PAYS DE CAUX;PAYS DE CAUX;Pourville-sur-Mer - Varengeville;Pourville-sur-Mer - Varengeville;;;Colonies naturelles;Colonies naturelles;4;49.918742;1.033017
 536;PAYS DE CAUX;PAYS DE CAUX;Sainte-Adresse;Sainte-Adresse;;;Colonies urbaines;Colonies urbaines;4;49.505923;0.085953
 537;RADE DE CHERBOURG;RADE DE CHERBOURG;Terre-plein des mielles Tourlaville;Terre-plein des mielles Tourlaville;;;Colonies naturelles;Colonies naturelles;4;49.6533157;-1.599481
-538;CÔTE D'OPALE;CÔTE D'OPALE;Ardres;Ardres;;;Pont d'Ardres;Pont d'Ardres;4;50.894337;1.96082
-539;FALAISES D'AULT;FALAISES D'AULT;AULT;AULT;;;Ville;Ville;4;50.1014;1.4465
-540;PICARDIE MARITIME;PICARDIE MARITIME;Berck;Berck;;;Dunes de Berck : Mare l'Anse;Dunes de Berck : Mare l'Anse;4;50.435708;1.578162
+538;CÔTE DOPALE;CÔTE DOPALE;Ardres;Ardres;;;Pont dArdres;Pont dArdres;4;50.894337;1.96082
+539;FALAISES DAULT;FALAISES DAULT;AULT;AULT;;;Ville;Ville;4;50.1014;1.4465
+540;PICARDIE MARITIME;PICARDIE MARITIME;Berck;Berck;;;Dunes de Berck : Mare lAnse;Dunes de Berck : Mare lAnse;4;50.435708;1.578162
 541;BOULONNAIS (62);BOULONNAIS (62);Boulogne-sur-mer;Boulogne-sur-mer;;;Capécure;Capécure;4;50.725434;1.597298
 542;BOULONNAIS (62);BOULONNAIS (62);Boulogne-sur-mer;Boulogne-sur-mer;;;digue carnot;digue carnot;4;50.732505;1.56595
 543;BOULONNAIS (62);BOULONNAIS (62);Boulogne-sur-Mer;Boulogne-sur-Mer;;;port;port;4;50.723723;1.594645
 544;BOULONNAIS (62);BOULONNAIS (62);Boulogne-sur-Mer;Boulogne-sur-Mer;;;Ville basse;Ville basse;4;50.722;1.607358
 545;BOULONNAIS (62);BOULONNAIS (62);"Boulogne-sur-Mer ; Le Portel";"Boulogne-sur-Mer ; Le Portel";;;Capécure;Capécure;4;50.722314;1.583475
 546;BOULONNAIS (62);BOULONNAIS (62);"Boulogne-sur-Mer ; Le Portel";"Boulogne-sur-Mer ; Le Portel";;;Port de commerce-Capitainerie;Port de commerce-Capitainerie;4;50.3683;1.6519
-547;PICARDIE MARITIME;PICARDIE MARITIME;Camiers;Camiers;;;presqu'île de l'étang du Roi;presqu'île de l'étang du Roi;4;50.5635175615;1.611485593
-548;BAIE DE SOMME;BAIE DE SOMME;Cayeux-sur-Mer;Cayeux-sur-Mer;;;Hâble d'Ault;Hâble d'Ault;4;50.161395;1.481375
+547;PICARDIE MARITIME;PICARDIE MARITIME;Camiers;Camiers;;;presquîle de létang du Roi;presquîle de létang du Roi;4;50.5635175615;1.611485593
+548;BAIE DE SOMME;BAIE DE SOMME;Cayeux-sur-Mer;Cayeux-sur-Mer;;;Hâble dAult;Hâble dAult;4;50.161395;1.481375
 549;BAIE DE SOMME;BAIE DE SOMME;Cayeux-sur-Mer;Cayeux-sur-Mer;;;Ville;Ville;4;50.1818;1.494
-550;PICARDIE MARITIME;PICARDIE MARITIME;Conchil-le-Temple;Conchil-le-Temple;;;Foraine d'Authie;Foraine d'Authie;4;50.366141;1.651549
-551;CÔTE D'OPALE;CÔTE D'OPALE;Coquelles;Coquelles;;;Eurotunnel;Eurotunnel;4;50.935261;1.821535
+550;PICARDIE MARITIME;PICARDIE MARITIME;Conchil-le-Temple;Conchil-le-Temple;;;Foraine dAuthie;Foraine dAuthie;4;50.366141;1.651549
+551;CÔTE DOPALE;CÔTE DOPALE;Coquelles;Coquelles;;;Eurotunnel;Eurotunnel;4;50.935261;1.821535
 552;PICARDIE MARITIME;PICARDIE MARITIME;Dannes;Dannes;;;carrière de Dannes;carrière de Dannes;4;50.582556;1.623518
 553;FLANDRE MARITIME;FLANDRE MARITIME;Dunkerque;Dunkerque;;;Arcellor Mittal;Arcellor Mittal;4;51.02536;2.293955
 554;FLANDRE MARITIME;FLANDRE MARITIME;Dunkerque;Dunkerque;;;Arrière-port de Dunkerque;Arrière-port de Dunkerque;4;51.035366;2.24434
@@ -535,7 +535,7 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 560;FLANDRE MARITIME;FLANDRE MARITIME;Dunkerque ;Dunkerque ;;;poste électrique;poste électrique;4;51.045063;2.33335
 561;FLANDRE MARITIME;FLANDRE MARITIME;Dunkerque;Dunkerque;;;usine alumine Rio tinto;usine alumine Rio tinto;4;51.000515;2.169445
 562;FLANDRE MARITIME;FLANDRE MARITIME;Dunkerque;Dunkerque;;;ville;ville;4;51.031498;2.380537
-563;CÔTE D'OPALE;CÔTE D'OPALE;Escalles - Sangatte;Escalles - Sangatte;;;falaise du cap Blanc-Nez;falaise du cap Blanc-Nez;4;50.928282;1.71128
+563;CÔTE DOPALE;CÔTE DOPALE;Escalles - Sangatte;Escalles - Sangatte;;;falaise du cap Blanc-Nez;falaise du cap Blanc-Nez;4;50.928282;1.71128
 564;BAIE DE SOMME;BAIE DE SOMME;Fort-Mahon-Plage;Fort-Mahon-Plage;;;Ville;Ville;4;50.341474;1.551472
 565;FLANDRE MARITIME;FLANDRE MARITIME;Ghyvelde;Ghyvelde;;;Dunes de Ghyvelde : Lac Mayeux;Dunes de Ghyvelde : Lac Mayeux;4;51.060465;2.538
 566;FLANDRE MARITIME;FLANDRE MARITIME;Ghyvelde;Ghyvelde;;;Lac des Moëres;Lac des Moëres;4;51.051995;2.535768
@@ -548,39 +548,39 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 573;FLANDRE MARITIME;FLANDRE MARITIME;Gravelines;Gravelines;;;lagunage;lagunage;4;50.99967;2.129686
 574;FLANDRE MARITIME;FLANDRE MARITIME;Gravelines;Gravelines;;;port;port;4;51.012995;2.165886
 575;FLANDRE MARITIME;FLANDRE MARITIME;Gravelines;Gravelines;;;triangle centrale EDF;triangle centrale EDF;4;51.025664;2.147438
-576;PICARDIE MARITIME;PICARDIE MARITIME;Groffliers;Groffliers;;;pâtures nord de la Baie d'Auhie;pâtures nord de la Baie d'Auhie;4;50.3733;1.6145
-577;BAIE DE SOMME;BAIE DE SOMME;Lanchers;Lanchers;;;Maison de l'oiseau;Maison de l'oiseau;4;50.196847;1.551948
+576;PICARDIE MARITIME;PICARDIE MARITIME;Groffliers;Groffliers;;;pâtures nord de la Baie dAuhie;pâtures nord de la Baie dAuhie;4;50.3733;1.6145
+577;BAIE DE SOMME;BAIE DE SOMME;Lanchers;Lanchers;;;Maison de loiseau;Maison de loiseau;4;50.196847;1.551948
 578;BAIE DE SOMME;BAIE DE SOMME;Le Crotoy;Le Crotoy;;;le Marais du Crotoy;le Marais du Crotoy;4;50.238;1.607575
 579;BOULONNAIS (62);BOULONNAIS (62);Le Portel;Le Portel;;;friche hub terminal;friche hub terminal;4;50.721878;1.57596
 580;BOULONNAIS (62);BOULONNAIS (62);Le Portel;Le Portel;;; ; ;4;50.705329;1.570342
-581;CÔTE D'OPALE;CÔTE D'OPALE;Les Attaques;Les Attaques;;;Bassins de décantation de la sucrerie;Bassins de décantation de la sucrerie;4;50.893461;1.961119
+581;CÔTE DOPALE;CÔTE DOPALE;Les Attaques;Les Attaques;;;Bassins de décantation de la sucrerie;Bassins de décantation de la sucrerie;4;50.893461;1.961119
 582;FLANDRE MARITIME;FLANDRE MARITIME;Loon plage;Loon plage;;;Capitainerie;Capitainerie;4;51.031672;2.195442
 583;FLANDRE MARITIME;FLANDRE MARITIME;Loon plage;Loon plage;;;plage du Clipon;plage du Clipon;4;51.035369;2.201779
 585;FLANDRE MARITIME;FLANDRE MARITIME;Loon plage;Loon plage;;;port;port;4;51.029345;2.193692
 586;PICARDIE MARITIME;PICARDIE MARITIME;Merlimont;Merlimont;;;Garenne de Merlimont;Garenne de Merlimont;4;50.446801;1.584036
 587;PICARDIE MARITIME;PICARDIE MARITIME;Merlimont;Merlimont;;;Marais de Balançon;Marais de Balançon;4;50.441246;1.637407
 588;PICARDIE MARITIME;PICARDIE MARITIME;Merlimont;Merlimont;;;ville;ville;4;50.465072;1.573899
-589;FALAISES D'AULT;FALAISES D'AULT;MERS-LES-BAINS À AULT/ONIVAL;MERS-LES-BAINS À AULT/ONIVAL;;;Falaises;Falaises;4;50.0886;1.4209
-590;FALAISES D'AULT;FALAISES D'AULT;MERS-LES-BAINS;MERS-LES-BAINS;;;bâtiments industriels;bâtiments industriels;4;50.062372;1.387544
-591;FALAISES D'AULT;FALAISES D'AULT;MERS-LES-BAINS;MERS-LES-BAINS;;;Ville;Ville;4;50.062503;1.397136
+589;FALAISES DAULT;FALAISES DAULT;MERS-LES-BAINS À AULT/ONIVAL;MERS-LES-BAINS À AULT/ONIVAL;;;Falaises;Falaises;4;50.0886;1.4209
+590;FALAISES DAULT;FALAISES DAULT;MERS-LES-BAINS;MERS-LES-BAINS;;;bâtiments industriels;bâtiments industriels;4;50.062372;1.387544
+591;FALAISES DAULT;FALAISES DAULT;MERS-LES-BAINS;MERS-LES-BAINS;;;Ville;Ville;4;50.062503;1.397136
 592;BOULONNAIS (62);BOULONNAIS (62);Outreau;Outreau;;; ; ;4;50.707262;1.60678
-593;CÔTE D'OPALE;CÔTE D'OPALE;Oye plage;Oye plage;;;réserve naturelle du Platier d'Oye;réserve naturelle du Platier d'Oye;4;51.002663;2.083907
-595;CÔTE D'OPALE;CÔTE D'OPALE;Oye-Plage;Oye-Plage;;;RNN Plage des escardines;RNN Plage des escardines;4;51.004646;2.051414
-596;CÔTE D'OPALE;CÔTE D'OPALE;Oye-Plage;Oye-Plage;;;sablière;sablière;4;50.989869;2.046719
+593;CÔTE DOPALE;CÔTE DOPALE;Oye plage;Oye plage;;;réserve naturelle du Platier dOye;réserve naturelle du Platier dOye;4;51.002663;2.083907
+595;CÔTE DOPALE;CÔTE DOPALE;Oye-Plage;Oye-Plage;;;RNN Plage des escardines;RNN Plage des escardines;4;51.004646;2.051414
+596;CÔTE DOPALE;CÔTE DOPALE;Oye-Plage;Oye-Plage;;;sablière;sablière;4;50.989869;2.046719
 598;BAIE DE SOMME;BAIE DE SOMME;Parc du Marquenterre / RNN Baie de Somme;Parc du Marquenterre / RNN Baie de Somme;;; ; ;4;50.2597222222;1.5763888889
-599;CÔTE D'OPALE;CÔTE D'OPALE;Sangatte;Sangatte;;;fond pignon;fond pignon;4;50.93182;1.737272
+599;CÔTE DOPALE;CÔTE DOPALE;Sangatte;Sangatte;;;fond pignon;fond pignon;4;50.93182;1.737272
 600;BOULONNAIS (62);BOULONNAIS (62);Tardinghen;Tardinghen;;;Baie de Wissant, carrière du phare;Baie de Wissant, carrière du phare;4;50.877013;1.655019
 601;BOULONNAIS (62);BOULONNAIS (62);Wimereux;Wimereux;;;falaise de la pointe de la crèche, faille honvault;falaise de la pointe de la crèche, faille honvault;4;50.756837;1.601377
-602;CÔTE D'OPALE;CÔTE D'OPALE;Calais;Calais;;;Calais-ville;Calais-ville;4;50.948407;1.853185
-603;CÔTE D'OPALE;CÔTE D'OPALE;Calais;Calais;;;friches;friches;4;50.963965;1.865297
-604;CÔTE D'OPALE;CÔTE D'OPALE;Calais;Calais;;;plage du port;plage du port;4;50.582556;1.886274
-605;CÔTE D'OPALE;CÔTE D'OPALE;Calais;Calais;;;port;port;4;50.956256;1.86017
-606;CÔTE D'OPALE;CÔTE D'OPALE;Calais;Calais;;;Umicore;Umicore;4;50.963258;1.86189
-607;CÔTE D'OPALE;CÔTE D'OPALE;Calais;Calais;;;zone résidentielle;zone résidentielle;4;50.951489;1.876788
+602;CÔTE DOPALE;CÔTE DOPALE;Calais;Calais;;;Calais-ville;Calais-ville;4;50.948407;1.853185
+603;CÔTE DOPALE;CÔTE DOPALE;Calais;Calais;;;friches;friches;4;50.963965;1.865297
+604;CÔTE DOPALE;CÔTE DOPALE;Calais;Calais;;;plage du port;plage du port;4;50.582556;1.886274
+605;CÔTE DOPALE;CÔTE DOPALE;Calais;Calais;;;port;port;4;50.956256;1.86017
+606;CÔTE DOPALE;CÔTE DOPALE;Calais;Calais;;;Umicore;Umicore;4;50.963258;1.86189
+607;CÔTE DOPALE;CÔTE DOPALE;Calais;Calais;;;zone résidentielle;zone résidentielle;4;50.951489;1.876788
 608;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-030 (cote 13m au NW de Raguénès Meur);2205-04-030 (cote 13m au NW de Raguénès Meur);2;48.849049;-2.983032
 609;CÔTE DU GOELO;CÔTE DU GOELO;Anse de Paimpol;Anse de Paimpol;;;2205-01-001 (Le Grand Mez de Goëlo);2205-01-001 (Le Grand Mez de Goëlo);2;48.7795;-2.948432
 610;CÔTE DU GOELO;CÔTE DU GOELO;Anse de Paimpol;Anse de Paimpol;;;2205-01-002 (Ile Léménez);2205-01-002 (Ile Léménez);2;48.779632;-2.959009
-611;CÔTE DU GOELO;CÔTE DU GOELO;Anse de Paimpol;Anse de Paimpol;;;Phare de l'Ost-Pic;Phare de l'Ost-Pic;2;48.779525;-2.940262
+611;CÔTE DU GOELO;CÔTE DU GOELO;Anse de Paimpol;Anse de Paimpol;;;Phare de lOst-Pic;Phare de lOst-Pic;2;48.779525;-2.940262
 612;CÔTE DU GOELO;CÔTE DU GOELO;Anse de Paimpol;Anse de Paimpol;;;Ville de Paimpol;Ville de Paimpol;2;48.779739;-3.048851
 613;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-003 (Logodec);2205-04-003 (Logodec);2;48.839677;-2.991145
 614;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-004 (Cote 14m dans le chenal de la Chambre);2205-04-004 (Cote 14m dans le chenal de la Chambre);2;48.840424;-2.993979
@@ -601,57 +601,57 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 629;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-020 (ilot J);2205-04-020 (ilot J);2;48.844469;-2.987352
 630;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-021 (Cote 16m au nord de Quistillic);2205-04-021 (Cote 16m au nord de Quistillic);2;48.844302;-2.982026
 631;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-023 (rocher entre Lavrec Est et Raguénès Meur);2205-04-023 (rocher entre Lavrec Est et Raguénès Meur);2;48.84582;-2.983329
-632;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-024 (groupe Gc à l'est de Lavrec);2205-04-024 (groupe Gc à l'est de Lavrec);2;48.84662;-2.983356
-633;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-025 (rocher entre l'anse de Lavrec et Raguénès Meur);2205-04-025 (rocher entre l'anse de Lavrec et Raguénès Meur);2;48.846003;-2.985477
-634;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-026 (goupe GB à l'est de Lavrec);2205-04-026 (goupe GB à l'est de Lavrec);2;48.84718;-2.984328
+632;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-024 (groupe Gc à lest de Lavrec);2205-04-024 (groupe Gc à lest de Lavrec);2;48.84662;-2.983356
+633;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-025 (rocher entre lanse de Lavrec et Raguénès Meur);2205-04-025 (rocher entre lanse de Lavrec et Raguénès Meur);2;48.846003;-2.985477
+634;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-026 (goupe GB à lest de Lavrec);2205-04-026 (goupe GB à lest de Lavrec);2;48.84718;-2.984328
 635;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-027 (ilot au sud du (2ème ilot au SE de la cote 14m entre Lavrec Nord et Raguénès Meur (cote 13 nord)));2205-04-027 (ilot au sud du (2ème ilot au SE de la cote 14m entre Lavrec Nord et Raguénès Meur (cote 13 nord)));2;48.848244;-2.984506
 636;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-028 (2ème ilot au SE de la cote 14m entre Lavrec Nord et Raguénès Meur (cote 13 nord));2205-04-028 (2ème ilot au SE de la cote 14m entre Lavrec Nord et Raguénès Meur (cote 13 nord));2;48.848676;-2.984919
 637;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-031 (Raguénès Meur);2205-04-031 (Raguénès Meur);2;48.847376;-2.980363
 638;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-032 (Ile lavrec nord);2205-04-032 (Ile lavrec nord);2;48.846697;-2.988073
-639;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-033 (cote 9m à l'ouest de Lavrec);2205-04-033 (cote 9m à l'ouest de Lavrec);2;48.848722;-2.990533
+639;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-033 (cote 9m à louest de Lavrec);2205-04-033 (cote 9m à louest de Lavrec);2;48.848722;-2.990533
 640;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-034 (ilot sud entre cote 14 et séhéres);2205-04-034 (ilot sud entre cote 14 et séhéres);2;48.851551;-2.99193
 641;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-038 (Rochers au nord de Ile Séhérès);2205-04-038 (Rochers au nord de Ile Séhérès);2;48.853982;-2.99076
-642;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-040 (rocher entre Roc'h Louet et ile de Séhérés);2205-04-040 (rocher entre Roc'h Louet et ile de Séhérés);2;48.852701;-2.987585
+642;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-040 (rocher entre Roch Louet et ile de Séhérés);2205-04-040 (rocher entre Roch Louet et ile de Séhérés);2;48.852701;-2.987585
 643;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-041 (Rocher au NE de la pointe est de Séhérès);2205-04-041 (Rocher au NE de la pointe est de Séhérès);2;48.852976;-2.986671
-644;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-042 (Roche au sud de la roche au sud de la cote 12m à l'ouest de Roc'h Louet);2205-04-042 (Roche au sud de la roche au sud de la cote 12m à l'ouest de Roc'h Louet);2;48.853614;-2.985494
-645;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-043 (Roche au sud de la cote 12m à l'ouest de Roc'h Louet);2205-04-043 (Roche au sud de la cote 12m à l'ouest de Roc'h Louet);2;48.85396;-2.985202
-646;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;"2205-04-044 (Ilot N-NE cote 13m entre Lavrec et Raguénès (SO de ""Ar Roc'ho""))";"2205-04-044 (Ilot N-NE cote 13m entre Lavrec et Raguénès (SO de ""Ar Roc'ho""))";2;48.850726;-2.982195
-647;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-045 (Ar Roc'h o (cote 14m);2205-04-045 (Ar Roc'h o (cote 14m);2;48.851134;-2.979111
+644;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-042 (Roche au sud de la roche au sud de la cote 12m à louest de Roch Louet);2205-04-042 (Roche au sud de la roche au sud de la cote 12m à louest de Roch Louet);2;48.853614;-2.985494
+645;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-043 (Roche au sud de la cote 12m à louest de Roch Louet);2205-04-043 (Roche au sud de la cote 12m à louest de Roch Louet);2;48.85396;-2.985202
+646;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;"2205-04-044 (Ilot N-NE cote 13m entre Lavrec et Raguénès (SO de ""Ar Rocho""))";"2205-04-044 (Ilot N-NE cote 13m entre Lavrec et Raguénès (SO de ""Ar Rocho""))";2;48.850726;-2.982195
+647;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-045 (Ar Roch o (cote 14m);2205-04-045 (Ar Roch o (cote 14m);2;48.851134;-2.979111
 648;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-046 (Ar Wezenn);2205-04-046 (Ar Wezenn);2;48.852678;-2.980047
-649;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-047 (Roche au sud auprès de Roc'h Louet);2205-04-047 (Roche au sud auprès de Roc'h Louet);2;48.854523;-2.982489
-650;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-048 (Roc'h Louet (amer);2205-04-048 (Roc'h Louet (amer);2;48.855016;-2.981939
-651;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-049 (Cote 16m à l'est de Roc'h Louet);2205-04-049 (Cote 16m à l'est de Roc'h Louet);2;48.854877;-2.979809
-652;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-050 (Rocher au NW de Roc'h Louet);2205-04-050 (Rocher au NW de Roc'h Louet);2;48.855879;-2.983188
-653;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-051 (Cote 12m à l'ouest de Roc'h Louet);2205-04-051 (Cote 12m à l'ouest de Roc'h Louet);2;48.855272;-2.985487
-654;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-052 (Cote 17m à l'ouest de Roc'h Louet);2205-04-052 (Cote 17m à l'ouest de Roc'h Louet);2;48.855512;-2.987355
-655;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-053 (Rocher au nord de la cote 17m à l'ouest de Roc'h Louet);2205-04-053 (Rocher au nord de la cote 17m à l'ouest de Roc'h Louet);2;48.856541;-2.986519
-656;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-054 (Cote 12m au NO de la cote 17m à l'ouest de Roc'h Louet);2205-04-054 (Cote 12m au NO de la cote 17m à l'ouest de Roc'h Louet);2;48.856842;-2.989444
+649;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-047 (Roche au sud auprès de Roch Louet);2205-04-047 (Roche au sud auprès de Roch Louet);2;48.854523;-2.982489
+650;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-048 (Roch Louet (amer);2205-04-048 (Roch Louet (amer);2;48.855016;-2.981939
+651;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-049 (Cote 16m à lest de Roch Louet);2205-04-049 (Cote 16m à lest de Roch Louet);2;48.854877;-2.979809
+652;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-050 (Rocher au NW de Roch Louet);2205-04-050 (Rocher au NW de Roch Louet);2;48.855879;-2.983188
+653;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-051 (Cote 12m à louest de Roch Louet);2205-04-051 (Cote 12m à louest de Roch Louet);2;48.855272;-2.985487
+654;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-052 (Cote 17m à louest de Roch Louet);2205-04-052 (Cote 17m à louest de Roch Louet);2;48.855512;-2.987355
+655;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-053 (Rocher au nord de la cote 17m à louest de Roch Louet);2205-04-053 (Rocher au nord de la cote 17m à louest de Roch Louet);2;48.856541;-2.986519
+656;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-054 (Cote 12m au NO de la cote 17m à louest de Roch Louet);2205-04-054 (Cote 12m au NO de la cote 17m à louest de Roch Louet);2;48.856842;-2.989444
 657;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-055 (Cote 13m au SO de Ile ar Morbic);2205-04-055 (Cote 13m au SO de Ile ar Morbic);2;48.858269;-2.987556
 658;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-056 (Rocher au NE de la cote 13m au SO de Ile ar Morbic);2205-04-056 (Rocher au NE de la cote 13m au SO de Ile ar Morbic);2;48.858974;-2.985486
-659;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-057 (Amer à l'ouest de Ile ar Morbic);2205-04-057 (Amer à l'ouest de Ile ar Morbic);2;48.860153;-2.984091
+659;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-057 (Amer à louest de Ile ar Morbic);2205-04-057 (Amer à louest de Ile ar Morbic);2;48.860153;-2.984091
 660;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-058 (Ile ar Morbic);2205-04-058 (Ile ar Morbic);2;48.859262;-2.981461
 661;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-059 (Rocher à la pointe SW de Ile ar Morbic);2205-04-059 (Rocher à la pointe SW de Ile ar Morbic);2;48.85837;-2.984086
 662;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - est;Archipel de Bréhat - est;;;2205-04-060 (rocher N-NO du précédent et S-SO et Ar Morbic);2205-04-060 (rocher N-NO du précédent et S-SO et Ar Morbic);2;48.857161;-2.98332
 663;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-001 (ilot 4 (au sud du phare de la Croix));2205-05-001 (ilot 4 (au sud du phare de la Croix));2;48.833245;-3.055273
 664;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-002 (ilot 5 (au sud du phare de la Croix));2205-05-002 (ilot 5 (au sud du phare de la Croix));2;48.834224;-3.053356
 665;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-003 (ilot au nord du n°5 (au sud du phare de la Croix));2205-05-003 (ilot au nord du n°5 (au sud du phare de la Croix));2;48.835105;-3.052601
-666;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-004 (Roc'h Velen);2205-05-004 (Roc'h Velen);2;48.829542;-3.051913
+666;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-004 (Roch Velen);2205-05-004 (Roch Velen);2;48.829542;-3.051913
 667;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-005 (Les Agneaux (petit sud));2205-05-005 (Les Agneaux (petit sud));2;48.831849;-3.048906
 668;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-006 (Les Agneaux (Sud est));2205-05-006 (Les Agneaux (Sud est));2;48.832693;-3.048584
 669;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-007 (Les Agneaux);2205-05-007 (Les Agneaux);2;48.833851;-3.049469
 670;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-008 (Caillou entre les Agneaux et les Trois îles);2205-05-008 (Caillou entre les Agneaux et les Trois îles);2;48.834848;-3.04455
-671;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-009 (Ar C'horvenn);2205-05-009 (Ar C'horvenn);2;48.832702;-3.037027
-672;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-010 (Roc'h Coulen);2205-05-010 (Roc'h Coulen);2;48.834773;-3.034267
-673;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-011 (cote 11m à l'est des Trois Iles);2205-05-011 (cote 11m à l'est des Trois Iles);2;48.837878;-3.042313
-674;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-012 (ilot à l'ESE de la cote 11m à l'est des Trois Iles);2205-05-012 (ilot à l'ESE de la cote 11m à l'est des Trois Iles);2;48.837122;-3.039696
-675;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-013 (Roches au nord de la cote 11m à l'est des Trois Iles);2205-05-013 (Roches au nord de la cote 11m à l'est des Trois Iles);2;48.838564;-3.042275
+671;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-009 (Ar Chorvenn);2205-05-009 (Ar Chorvenn);2;48.832702;-3.037027
+672;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-010 (Roch Coulen);2205-05-010 (Roch Coulen);2;48.834773;-3.034267
+673;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-011 (cote 11m à lest des Trois Iles);2205-05-011 (cote 11m à lest des Trois Iles);2;48.837878;-3.042313
+674;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-012 (ilot à lESE de la cote 11m à lest des Trois Iles);2205-05-012 (ilot à lESE de la cote 11m à lest des Trois Iles);2;48.837122;-3.039696
+675;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-013 (Roches au nord de la cote 11m à lest des Trois Iles);2205-05-013 (Roches au nord de la cote 11m à lest des Trois Iles);2;48.838564;-3.042275
 676;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-014 (Les Trois Iles nord);2205-05-014 (Les Trois Iles nord);2;48.838489;-3.044915
 677;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-015 (Les Trois Iles centre);2205-05-015 (Les Trois Iles centre);2;48.83778;-3.045469
 678;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-016 (Les Trois Iles sud);2205-05-016 (Les Trois Iles sud);2;48.837059;-3.044876
-679;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-017 (Ar C'hromm Bras);2205-05-017 (Ar C'hromm Bras);2;48.839899;-3.03806
+679;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-017 (Ar Chromm Bras);2205-05-017 (Ar Chromm Bras);2;48.839899;-3.03806
 680;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-018 (Ile Verte);2205-05-018 (Ile Verte);2;48.842726;-3.037289
-681;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-019 (Annexe (cote 12m) au SE de l'ile Verte);2205-05-019 (Annexe (cote 12m) au SE de l'ile Verte);2;48.842128;-3.03578
-682;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-020 (Annexe à l'est de la cote 12m au SE de l'ile Verte);2205-05-020 (Annexe à l'est de la cote 12m au SE de l'ile Verte);2;48.841908;-3.034652
+681;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-019 (Annexe (cote 12m) au SE de lile Verte);2205-05-019 (Annexe (cote 12m) au SE de lile Verte);2;48.842128;-3.03578
+682;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-020 (Annexe à lest de la cote 12m au SE de lile Verte);2205-05-020 (Annexe à lest de la cote 12m au SE de lile Verte);2;48.841908;-3.034652
 683;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-021 (Roches des Flamands);2205-05-021 (Roches des Flamands);2;48.839564;-3.034695
 684;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-022 (Le Bouc);2205-05-022 (Le Bouc);2;48.836841;-3.032161
 685;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-023 (La Chèvre);2205-05-023 (La Chèvre);2;48.835671;-3.027155
@@ -660,7 +660,7 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 688;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-026 (ilot (cote 9m) au nord ouest de Men ar Vran);2205-05-026 (ilot (cote 9m) au nord ouest de Men ar Vran);2;48.833747;-3.024267
 689;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-027 (Men Ar Vran);2205-05-027 (Men Ar Vran);2;48.832492;-3.020126
 690;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-028 (Roche auprès de la pointe sud de Raguénès);2205-05-028 (Roche auprès de la pointe sud de Raguénès);2;48.834337;-3.018979
-691;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-029 (ile E à l'est de Raguénès);2205-05-029 (ile E à l'est de Raguénès);2;48.834639;-3.013866
+691;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-029 (ile E à lest de Raguénès);2205-05-029 (ile E à lest de Raguénès);2;48.834639;-3.013866
 692;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-030 (Raguénès);2205-05-030 (Raguénès);2;48.836203;-3.01995
 693;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-032 (ile D à la pointe Nord Est de Raguénès);2205-05-032 (ile D à la pointe Nord Est de Raguénès);2;48.835935;-3.015091
 694;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-034 (ile C à la pointe Nord Est de Raguénès (nord));2205-05-034 (ile C à la pointe Nord Est de Raguénès (nord));2;48.836679;-3.015782
@@ -670,101 +670,101 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 698;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-039 (Ile Biniguet);2205-05-039 (Ile Biniguet);2;48.842165;-3.018383
 699;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-040 (ilot le plus loin du moulin à marée);2205-05-040 (ilot le plus loin du moulin à marée);2;48.84665;-3.011599
 700;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-041 (Ilot le plus proche du moulin à marée);2205-05-041 (Ilot le plus proche du moulin à marée);2;48.847054;-3.011026
-701;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-042 (Roc'h Losquet);2205-05-042 (Roc'h Losquet);2;48.84081;-3.026459
-702;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-043 (rocher à l'O de Men ar Gouilh (1er à l'est de l'ile C'hrou Ezen));2205-05-043 (rocher à l'O de Men ar Gouilh (1er à l'est de l'ile C'hrou Ezen));2;48.846872;-3.016877
+701;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-042 (Roch Losquet);2205-05-042 (Roch Losquet);2;48.84081;-3.026459
+702;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-043 (rocher à lO de Men ar Gouilh (1er à lest de lile Chrou Ezen));2205-05-043 (rocher à lO de Men ar Gouilh (1er à lest de lile Chrou Ezen));2;48.846872;-3.016877
 703;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-044 (Men ar Gouilh);2205-05-044 (Men ar Gouilh);2;48.847148;-3.015145
-704;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-046 (C'hrou Ezen);2205-05-046 (C'hrou Ezen);2;48.846592;-3.018895
-705;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-049 (ile au NO de l'ile Biniguet);2205-05-049 (ile au NO de l'ile Biniguet);2;48.844795;-3.021398
-706;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-050 (Cote 11 m au sud de Roc'h ar Vranig);2205-05-050 (Cote 11 m au sud de Roc'h ar Vranig);2;48.844009;-3.023842
-707;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-051 (îlot au NE de l'île Verte entre île verte et Roc'h ar Musig);2205-05-051 (îlot au NE de l'île Verte entre île verte et Roc'h ar Musig);2;48.845008;-3.030851
-708;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-052 (îlot au NO de l'île à l'ouest des trois îlots au sud de Roc'h ar Musig);2205-05-052 (îlot au NO de l'île à l'ouest des trois îlots au sud de Roc'h ar Musig);2;48.846665;-3.030464
-709;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-053 (Ile à l'ouest des trois ilots au sud de Roc'h ar Musig);2205-05-053 (Ile à l'ouest des trois ilots au sud de Roc'h ar Musig);2;48.845741;-3.027993
-710;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-055 (îlot au SO de Roc'h ar Musig / Roc'h ar Vranig);2205-05-055 (îlot au SO de Roc'h ar Musig / Roc'h ar Vranig);2;48.846374;-3.025943
-711;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-056 (les 3 ilots au sud de Roc'h ar Musig);2205-05-056 (les 3 ilots au sud de Roc'h ar Musig);2;48.845516;-3.025376
-712;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-057 (îlot au SE du (Ilot au S-O de Roch ar Musig /O Roc'h ar vranig));2205-05-057 (îlot au SE du (Ilot au S-O de Roch ar Musig /O Roc'h ar vranig));2;48.846008;-3.024854
-713;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-058 (Roc'h ar Vranig);2205-05-058 (Roc'h ar Vranig);2;48.84665;-3.022
-714;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-059 (Roc'h ar Musig);2205-05-059 (Roc'h ar Musig);2;48.847628;-3.023902
-715;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-060 (Ilot au nord de Roc'h ar Musig);2205-05-060 (Ilot au nord de Roc'h ar Musig);2;48.848398;-3.024801
-716;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-061 (Cote 12m à l'ouest de Roc'h ar Musig);2205-05-061 (Cote 12m à l'ouest de Roc'h ar Musig);2;48.848161;-3.027861
-717;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-062 (annexe d'Ar C'hi (cote 12 m));2205-05-062 (annexe d'Ar C'hi (cote 12 m));2;48.847878;-3.028132
-718;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-063 (Roche cote 7m à l'ouest de la cote 12m à l'ouest de Roc'h ar Musig);2205-05-063 (Roche cote 7m à l'ouest de la cote 12m à l'ouest de Roc'h ar Musig);2;48.848241;-3.030067
-719;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-064 (ile à l'ouest de la cote 11m de Roc'h Drainsec ouest);2205-05-064 (ile à l'ouest de la cote 11m de Roc'h Drainsec ouest);2;48.849705;-3.028172
-720;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-065 (ilots au NO de Roc'h Drainsec ouest (cote 11m));2205-05-065 (ilots au NO de Roc'h Drainsec ouest (cote 11m));2;48.850489;-3.026383
-721;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-066 (Roc'h Drainsec ouest (cote 11m));2205-05-066 (Roc'h Drainsec ouest (cote 11m));2;48.849574;-3.023899
-722;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-067 (rocher Roc'h Drainsec);2205-05-067 (rocher Roc'h Drainsec);2;48.85;-3.022428
-723;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-068 (Roc'h Drainsec ouest (cote 10m));2205-05-068 (Roc'h Drainsec ouest (cote 10m));2;48.849501;-3.018322
-724;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-069 (Roc'h Drainsec (2ème ilot au sud de la cote 14m));2205-05-069 (Roc'h Drainsec (2ème ilot au sud de la cote 14m));2;48.84927;-3.016852
+704;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-046 (Chrou Ezen);2205-05-046 (Chrou Ezen);2;48.846592;-3.018895
+705;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-049 (ile au NO de lile Biniguet);2205-05-049 (ile au NO de lile Biniguet);2;48.844795;-3.021398
+706;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-050 (Cote 11 m au sud de Roch ar Vranig);2205-05-050 (Cote 11 m au sud de Roch ar Vranig);2;48.844009;-3.023842
+707;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-051 (îlot au NE de lîle Verte entre île verte et Roch ar Musig);2205-05-051 (îlot au NE de lîle Verte entre île verte et Roch ar Musig);2;48.845008;-3.030851
+708;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-052 (îlot au NO de lîle à louest des trois îlots au sud de Roch ar Musig);2205-05-052 (îlot au NO de lîle à louest des trois îlots au sud de Roch ar Musig);2;48.846665;-3.030464
+709;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-053 (Ile à louest des trois ilots au sud de Roch ar Musig);2205-05-053 (Ile à louest des trois ilots au sud de Roch ar Musig);2;48.845741;-3.027993
+710;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-055 (îlot au SO de Roch ar Musig / Roch ar Vranig);2205-05-055 (îlot au SO de Roch ar Musig / Roch ar Vranig);2;48.846374;-3.025943
+711;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-056 (les 3 ilots au sud de Roch ar Musig);2205-05-056 (les 3 ilots au sud de Roch ar Musig);2;48.845516;-3.025376
+712;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-057 (îlot au SE du (Ilot au S-O de Roch ar Musig /O Roch ar vranig));2205-05-057 (îlot au SE du (Ilot au S-O de Roch ar Musig /O Roch ar vranig));2;48.846008;-3.024854
+713;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-058 (Roch ar Vranig);2205-05-058 (Roch ar Vranig);2;48.84665;-3.022
+714;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-059 (Roch ar Musig);2205-05-059 (Roch ar Musig);2;48.847628;-3.023902
+715;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-060 (Ilot au nord de Roch ar Musig);2205-05-060 (Ilot au nord de Roch ar Musig);2;48.848398;-3.024801
+716;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-061 (Cote 12m à louest de Roch ar Musig);2205-05-061 (Cote 12m à louest de Roch ar Musig);2;48.848161;-3.027861
+717;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-062 (annexe dAr Chi (cote 12 m));2205-05-062 (annexe dAr Chi (cote 12 m));2;48.847878;-3.028132
+718;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-063 (Roche cote 7m à louest de la cote 12m à louest de Roch ar Musig);2205-05-063 (Roche cote 7m à louest de la cote 12m à louest de Roch ar Musig);2;48.848241;-3.030067
+719;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-064 (ile à louest de la cote 11m de Roch Drainsec ouest);2205-05-064 (ile à louest de la cote 11m de Roch Drainsec ouest);2;48.849705;-3.028172
+720;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-065 (ilots au NO de Roch Drainsec ouest (cote 11m));2205-05-065 (ilots au NO de Roch Drainsec ouest (cote 11m));2;48.850489;-3.026383
+721;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-066 (Roch Drainsec ouest (cote 11m));2205-05-066 (Roch Drainsec ouest (cote 11m));2;48.849574;-3.023899
+722;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-067 (rocher Roch Drainsec);2205-05-067 (rocher Roch Drainsec);2;48.85;-3.022428
+723;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-068 (Roch Drainsec ouest (cote 10m));2205-05-068 (Roch Drainsec ouest (cote 10m));2;48.849501;-3.018322
+724;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-069 (Roch Drainsec (2ème ilot au sud de la cote 14m));2205-05-069 (Roch Drainsec (2ème ilot au sud de la cote 14m));2;48.84927;-3.016852
 725;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-070 (Ilot au SW de la Croix de Modez);2205-05-070 (Ilot au SW de la Croix de Modez);2;48.849173;-3.015804
-726;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-071 (Roc'h Drainsec (1er ilot au sud de la cote 14m));2205-05-071 (Roc'h Drainsec (1er ilot au sud de la cote 14m));2;48.850015;-3.016697
-727;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-072 (Roc'h Drainsec (cote 14m));2205-05-072 (Roc'h Drainsec (cote 14m));2;48.851001;-3.016416
-728;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-073 (Roc'h Drainsec (au NO de la cote 14m));2205-05-073 (Roc'h Drainsec (au NO de la cote 14m));2;48.851534;-3.017168
+726;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-071 (Roch Drainsec (1er ilot au sud de la cote 14m));2205-05-071 (Roch Drainsec (1er ilot au sud de la cote 14m));2;48.850015;-3.016697
+727;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-072 (Roch Drainsec (cote 14m));2205-05-072 (Roch Drainsec (cote 14m));2;48.851001;-3.016416
+728;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-073 (Roch Drainsec (au NO de la cote 14m));2205-05-073 (Roch Drainsec (au NO de la cote 14m));2;48.851534;-3.017168
 729;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-074 (Men ar Gall (sud));2205-05-074 (Men ar Gall (sud));2;48.852533;-3.02239
 730;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-075 (Men ar Gall (cote 9,7m));2205-05-075 (Men ar Gall (cote 9,7m));2;48.853247;-3.023351
 731;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-076 (Men ar Gall (cote 15m));2205-05-076 (Men ar Gall (cote 15m));2;48.853685;-3.020625
-732;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-077 (Cote 16m à l'entrée du port de la Corderie);2205-05-077 (Cote 16m à l'entrée du port de la Corderie);2;48.854461;-3.011382
+732;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-077 (Cote 16m à lentrée du port de la Corderie);2205-05-077 (Cote 16m à lentrée du port de la Corderie);2;48.854461;-3.011382
 733;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-078 (Roches au nord de la balise rouge Monsellou Richard);2205-05-078 (Roches au nord de la balise rouge Monsellou Richard);2;48.855104;-3.014315
 734;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-079 (Le Chandelier);2205-05-079 (Le Chandelier);2;48.860873;-3.009027
 735;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-080 (Cote 14m sur la cote nord de Bréhat);2205-05-080 (Cote 14m sur la cote nord de Bréhat);2;48.860204;-3.005463
 736;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-081 (ilot nord anse du rosedo);2205-05-081 (ilot nord anse du rosedo);2;48.861701;-3.00163
 737;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-086 (Cote nord de Bréhat);2205-05-086 (Cote nord de Bréhat);2;48.865281;-2.988687
 738;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Bréhat - ouest;Archipel de Bréhat - ouest;;;2205-05-88 (sud ouest Biniget);2205-05-88 (sud ouest Biniget);2;48.839371;3.022965
-739;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de l'Île d'Er;Archipel de l'Île d'Er;;;2206-02-006 (Ile verte);2206-02-006 (Ile verte);2;48.859953;-3.190744
-740;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de l'Île d'Er;Archipel de l'Île d'Er;;;2206-02-010 (Ile d'Er);2206-02-010 (Ile d'Er);2;48.872978;-3.183243
-741;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de l'Île d'Er;Archipel de l'Île d'Er;;;2206-02-014 (Le Colombier);2206-02-014 (Le Colombier);2;48.883452;-3.199989
-742;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de l'Île d'Er;Archipel de l'Île d'Er;;;2206-02-015 (Roc'h Nord Laerez);2206-02-015 (Roc'h Nord Laerez);2;48.88458;-3.201899
-743;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de l'Île d'Er;Archipel de l'Île d'Er;;;2206-02-016 (La Vache);2206-02-016 (La Vache);2;48.880284;-3.196043
-744;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de l'Île d'Er;Archipel de l'Île d'Er;;;2206-02-017 (Ploumanisiou);2206-02-017 (Ploumanisiou);2;48.879464;-3.199357
-745;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de l'Île d'Er;Archipel de l'Île d'Er;;;2206-02-018 (Roch toull tan bras);2206-02-018 (Roch toull tan bras);2;48.876738;-3.20024
-746;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de l'Île d'Er;Archipel de l'Île d'Er;;;2206-02-019 (toull tan bihan);2206-02-019 (toull tan bihan);2;48.876471;-3.196278
-747;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de l'Île d'Er;Archipel de l'Île d'Er;;;2206-02-020 (cote 13 N ile d'Er);2206-02-020 (cote 13 N ile d'Er);2;48.875821;-3.190881
-748;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de l'Île d'Er;Archipel de l'Île d'Er;;;2206-02-023 (cote 20 nord petite ile / Men Menoter);2206-02-023 (cote 20 nord petite ile / Men Menoter);2;48.868486;-3.192652
-749;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de l'Île d'Er;Archipel de l'Île d'Er;;;2206-02-032 (Roch poull jouan);2206-02-032 (Roch poull jouan);2;48.8693;-3.210398
-750;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-001 (Roc'h Velen);2205-06-001 (Roc'h Velen);2;48.851604;-3.053103
-751;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-002 (Roc'h Louet);2205-06-002 (Roc'h Louet);2;48.855634;-3.039502
-752;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-003 (Roc'h Louet ouest);2205-06-003 (Roc'h Louet ouest);2;48.855606;-3.039936
+739;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de lÎle dEr;Archipel de lÎle dEr;;;2206-02-006 (Ile verte);2206-02-006 (Ile verte);2;48.859953;-3.190744
+740;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de lÎle dEr;Archipel de lÎle dEr;;;2206-02-010 (Ile dEr);2206-02-010 (Ile dEr);2;48.872978;-3.183243
+741;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de lÎle dEr;Archipel de lÎle dEr;;;2206-02-014 (Le Colombier);2206-02-014 (Le Colombier);2;48.883452;-3.199989
+742;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de lÎle dEr;Archipel de lÎle dEr;;;2206-02-015 (Roch Nord Laerez);2206-02-015 (Roch Nord Laerez);2;48.88458;-3.201899
+743;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de lÎle dEr;Archipel de lÎle dEr;;;2206-02-016 (La Vache);2206-02-016 (La Vache);2;48.880284;-3.196043
+744;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de lÎle dEr;Archipel de lÎle dEr;;;2206-02-017 (Ploumanisiou);2206-02-017 (Ploumanisiou);2;48.879464;-3.199357
+745;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de lÎle dEr;Archipel de lÎle dEr;;;2206-02-018 (Roch toull tan bras);2206-02-018 (Roch toull tan bras);2;48.876738;-3.20024
+746;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de lÎle dEr;Archipel de lÎle dEr;;;2206-02-019 (toull tan bihan);2206-02-019 (toull tan bihan);2;48.876471;-3.196278
+747;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de lÎle dEr;Archipel de lÎle dEr;;;2206-02-020 (cote 13 N ile dEr);2206-02-020 (cote 13 N ile dEr);2;48.875821;-3.190881
+748;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de lÎle dEr;Archipel de lÎle dEr;;;2206-02-023 (cote 20 nord petite ile / Men Menoter);2206-02-023 (cote 20 nord petite ile / Men Menoter);2;48.868486;-3.192652
+749;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel de lÎle dEr;Archipel de lÎle dEr;;;2206-02-032 (Roch poull jouan);2206-02-032 (Roch poull jouan);2;48.8693;-3.210398
+750;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-001 (Roch Velen);2205-06-001 (Roch Velen);2;48.851604;-3.053103
+751;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-002 (Roch Louet);2205-06-002 (Roch Louet);2;48.855634;-3.039502
+752;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-003 (Roch Louet ouest);2205-06-003 (Roch Louet ouest);2;48.855606;-3.039936
 753;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-006 (Les Trusques (cote 16m));2205-06-006 (Les Trusques (cote 16m));2;48.856888;-3.044452
 754;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-007 (Les Trusques (cote 9m);2205-06-007 (Les Trusques (cote 9m);2;48.857005;-3.046252
 755;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-008 (Les Trusques (cote 7m));2205-06-008 (Les Trusques (cote 7m));2;48.8577;-3.046407
 756;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-009 (Rocher cote 9m au SW de Modez);2205-06-009 (Rocher cote 9m au SW de Modez);2;48.859786;-3.048098
-757;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-011 (Ile au nord de la Cote 9m à l'ouest de la pointe SW de Modez);2205-06-011 (Ile au nord de la Cote 9m à l'ouest de la pointe SW de Modez);2;48.860923;-3.047861
-758;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-012 (île à l'ouest de la cote 13m au NO de la pointe SW de Modez);2205-06-012 (île à l'ouest de la cote 13m au NO de la pointe SW de Modez);2;48.861242;-3.046775
+757;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-011 (Ile au nord de la Cote 9m à louest de la pointe SW de Modez);2205-06-011 (Ile au nord de la Cote 9m à louest de la pointe SW de Modez);2;48.860923;-3.047861
+758;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-012 (île à louest de la cote 13m au NO de la pointe SW de Modez);2205-06-012 (île à louest de la cote 13m au NO de la pointe SW de Modez);2;48.861242;-3.046775
 759;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-013 (Cote 13m au NO de la pointe SW de Modez);2205-06-013 (Cote 13m au NO de la pointe SW de Modez);2;48.861243;-3.045369
 760;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-014 (Modez);2205-06-014 (Modez);2;48.86178;-3.038857
 761;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-015 (Cote 10m au NO de la pointe SW de Modez);2205-06-015 (Cote 10m au NO de la pointe SW de Modez);2;48.863204;-3.046624
-762;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-016 (Cote 10m au SE de l'île Vierge + roches annexes) / ile aux pigeons;2205-06-016 (Cote 10m au SE de l'île Vierge + roches annexes) / ile aux pigeons;2;48.863404;-3.05354
-763;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-017 (Cote 11m au sud de l'île vierge);2205-06-017 (Cote 11m au sud de l'île vierge);2;48.860438;-3.057955
-764;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-018 (cote 11m au SE de l'ile Vierge);2205-06-018 (cote 11m au SE de l'ile Vierge);2;48.866046;-3.053282
+762;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-016 (Cote 10m au SE de lîle Vierge + roches annexes) / ile aux pigeons;2205-06-016 (Cote 10m au SE de lîle Vierge + roches annexes) / ile aux pigeons;2;48.863404;-3.05354
+763;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-017 (Cote 11m au sud de lîle vierge);2205-06-017 (Cote 11m au sud de lîle vierge);2;48.860438;-3.057955
+764;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-018 (cote 11m au SE de lile Vierge);2205-06-018 (cote 11m au SE de lile Vierge);2;48.866046;-3.053282
 765;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-019 (île vierge);2205-06-019 (île vierge);2;48.867118;-3.056658
-766;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-030 (Roc'h Kaer);2205-06-030 (Roc'h Kaer);2;48.864965;-3.024783
-767;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-033 (Ilot à l'est de la cote 10m au NO de la pointe SW de Modez);2205-06-033 (Ilot à l'est de la cote 10m au NO de la pointe SW de Modez);2;48.863422;-3.045978
-768;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-034 (îlot au SE de l'île vierge);2205-06-034 (îlot au SE de l'île vierge);2;48.863534;-3.050468
-769;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-035 (îlot au NE de l'île vierge);2205-06-035 (îlot au NE de l'île vierge);2;48.867676;-3.055296
-770;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-036 (Cote 11m au sud de l'île Vierge, au nord du 017);2205-06-036 (Cote 11m au sud de l'île Vierge, au nord du 017);2;48.860889;-3.058455
-771;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;2206-01-003 (Roches annexes au sud d'Ollone (cote 9m));2206-01-003 (Roches annexes au sud d'Ollone (cote 9m));2;48.890844;-3.04756
-772;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;2206-01-005 (Ile d'Ollone);2206-01-005 (Ile d'Ollone);2;48.89254;-3.045318
-773;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;2206-01-007 (rocher entre Roc'h Louet et Ollone);2206-01-007 (rocher entre Roc'h Louet et Ollone);2;48.891839;-3.054835
-774;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;2206-01-011 (Roc'h Toull an Hault (coté 17m));2206-01-011 (Roc'h Toull an Hault (coté 17m));2;48.890193;-3.07185
-775;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;2206-01-012 (Stallio Braz);2206-01-012 (Stallio Braz);2;48.891458;-3.06205
-776;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;2206-01-014 (Roch Louet);2206-01-014 (Roch Louet);2;48.894202;-3.059932
-777;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;2206-01-015 (Rocher du Sark);2206-01-015 (Rocher du Sark);2;48.898622;-3.047071
-778;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;2206-01-017 (Men ar Gourlanv);2206-01-017 (Men ar Gourlanv);2;48.906821;-3.085942
-779;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;2206-01-034 (Men buas);2206-01-034 (Men buas);2;48.874582;-3.099104
-780;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;2206-02-018 (Roch toull tan bras);2206-02-018 (Roch toull tan bras);2;48.876738;-3.20024
-781;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;2206-02-024 (cote 12 est de petite ile);2206-02-024 (cote 12 est de petite ile);2;48.894202;-3.059932
-782;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;2206 - Sillon de Talbert;2206 - Sillon de Talbert;2;48.874643;-3.082879
-783;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;Les Héaux (Men Lem);Les Héaux (Men Lem);2;48.909697;-3.088266
-784;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel d'Ollone / les Héaux / Sillon de Talbert;Archipel d'Ollone / les Héaux / Sillon de Talbert;;;Toul Staen;Toul Staen;2;48.888575;-3.067398
+766;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-030 (Roch Kaer);2205-06-030 (Roch Kaer);2;48.864965;-3.024783
+767;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-033 (Ilot à lest de la cote 10m au NO de la pointe SW de Modez);2205-06-033 (Ilot à lest de la cote 10m au NO de la pointe SW de Modez);2;48.863422;-3.045978
+768;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-034 (îlot au SE de lîle vierge);2205-06-034 (îlot au SE de lîle vierge);2;48.863534;-3.050468
+769;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-035 (îlot au NE de lîle vierge);2205-06-035 (îlot au NE de lîle vierge);2;48.867676;-3.055296
+770;CÔTE DU GOELO;CÔTE DU GOELO;Archipel de Modez;Archipel de Modez;;;2205-06-036 (Cote 11m au sud de lîle Vierge, au nord du 017);2205-06-036 (Cote 11m au sud de lîle Vierge, au nord du 017);2;48.860889;-3.058455
+771;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;2206-01-003 (Roches annexes au sud dOllone (cote 9m));2206-01-003 (Roches annexes au sud dOllone (cote 9m));2;48.890844;-3.04756
+772;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;2206-01-005 (Ile dOllone);2206-01-005 (Ile dOllone);2;48.89254;-3.045318
+773;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;2206-01-007 (rocher entre Roch Louet et Ollone);2206-01-007 (rocher entre Roch Louet et Ollone);2;48.891839;-3.054835
+774;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;2206-01-011 (Roch Toull an Hault (coté 17m));2206-01-011 (Roch Toull an Hault (coté 17m));2;48.890193;-3.07185
+775;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;2206-01-012 (Stallio Braz);2206-01-012 (Stallio Braz);2;48.891458;-3.06205
+776;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;2206-01-014 (Roch Louet);2206-01-014 (Roch Louet);2;48.894202;-3.059932
+777;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;2206-01-015 (Rocher du Sark);2206-01-015 (Rocher du Sark);2;48.898622;-3.047071
+778;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;2206-01-017 (Men ar Gourlanv);2206-01-017 (Men ar Gourlanv);2;48.906821;-3.085942
+779;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;2206-01-034 (Men buas);2206-01-034 (Men buas);2;48.874582;-3.099104
+780;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;2206-02-018 (Roch toull tan bras);2206-02-018 (Roch toull tan bras);2;48.876738;-3.20024
+781;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;2206-02-024 (cote 12 est de petite ile);2206-02-024 (cote 12 est de petite ile);2;48.894202;-3.059932
+782;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;2206 - Sillon de Talbert;2206 - Sillon de Talbert;2;48.874643;-3.082879
+783;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;Les Héaux (Men Lem);Les Héaux (Men Lem);2;48.909697;-3.088266
+784;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Archipel dOllone / les Héaux / Sillon de Talbert;Archipel dOllone / les Héaux / Sillon de Talbert;;;Toul Staen;Toul Staen;2;48.888575;-3.067398
 785;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-023 (Men Renoter);2207-02-023 (Men Renoter);2;48.854827;-3.285651
 786;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-024 (Kastell Gwazou (cote 15m));2207-02-024 (Kastell Gwazou (cote 15m));2;48.861055;-3.28219
 787;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-025 (Térou Bras);2207-02-025 (Térou Bras);2;48.864295;-3.278827
-788;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-026 (Cote 7m à l'ouest de Kastell Gwazou);2207-02-026 (Cote 7m à l'ouest de Kastell Gwazou);2;48.86252;-3.283605
-789;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-027 (Roc'h Osquet);2207-02-027 (Roc'h Osquet);2;48.861568;-3.287722
-790;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-029 (Roc'h ar Skei);2207-02-029 (Roc'h ar Skei);2;48.862926;-3.291024
-791;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-030 (Cote 5m à l'est de Kastell Gwazou);2207-02-030 (Cote 5m à l'est de Kastell Gwazou);2;48.8595;-3.293151
+788;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-026 (Cote 7m à louest de Kastell Gwazou);2207-02-026 (Cote 7m à louest de Kastell Gwazou);2;48.86252;-3.283605
+789;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-027 (Roch Osquet);2207-02-027 (Roch Osquet);2;48.861568;-3.287722
+790;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-029 (Roch ar Skei);2207-02-029 (Roch ar Skei);2;48.862926;-3.291024
+791;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-030 (Cote 5m à lest de Kastell Gwazou);2207-02-030 (Cote 5m à lest de Kastell Gwazou);2;48.8595;-3.293151
 792;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-031 (Annexe NE la plus au nord des Levrettes);2207-02-031 (Annexe NE la plus au nord des Levrettes);2;48.852984;-3.300034
 793;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-032 (annexe NE la plus proche des Levrettes);2207-02-032 (annexe NE la plus proche des Levrettes);2;48.852464;-3.300359
 794;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-034 (Les Levrettes);2207-02-034 (Les Levrettes);2;48.851152;-3.302183
-795;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-052 (Ilot SE de l'Ile Saint-Gildas);2207-02-052 (Ilot SE de l'Ile Saint-Gildas);2;48.843897;-3.301163
+795;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;2207-02-052 (Ilot SE de lIle Saint-Gildas);2207-02-052 (Ilot SE de lIle Saint-Gildas);2;48.843897;-3.301163
 796;TREGOR NORD ;TREGOR NORD ;Archipel Saint-Gildas;Archipel Saint-Gildas;;;Rohou Douar;Rohou Douar;2;48.857771;-3.2877
 797;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-003 (Ilot dans les Roho du sud (3ème) A1);2205-01-003 (Ilot dans les Roho du sud (3ème) A1);2;48.79709;-2.947893
 798;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-004 (Ilot dans les Roho du sud (2ème) A2);2205-01-004 (Ilot dans les Roho du sud (2ème) A2);2;48.797046;-2.950302
@@ -774,34 +774,34 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 802;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-009 (Ile Saint Rion);2205-01-009 (Ile Saint Rion);2;48.798924;-2.978257
 803;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-010 (Ile Saint-Rion);2205-01-010 (Ile Saint-Rion);2;48.797697;-2.980926
 804;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-011 (Ile Saint-Rion);2205-01-011 (Ile Saint-Rion);2;48.799578;-2.983587
-805;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-012 (Roc'h Vras (cote 16m));2205-01-012 (Roc'h Vras (cote 16m));2;48.800074;-2.988588
-806;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-013 (Roc'h Vras (cote 9m));2205-01-013 (Roc'h Vras (cote 9m));2;48.800653;-2.98633
-807;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-014 (Roc'h Radenek);2205-01-014 (Roc'h Radenek);2;48.805322;-2.983454
-808;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-015 (Roc'h ar Morbig);2205-01-015 (Roc'h ar Morbig);2;48.804977;-2.988942
-809;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-016 (Roc'h ar Mennou);2205-01-016 (Roc'h ar Mennou);2;48.804056;-2.991207
-810;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-017 (Banc de galets d'Ar Vilien Hir (entre Ar Morhorc'h Bihan et Min Treuze));2205-01-017 (Banc de galets d'Ar Vilien Hir (entre Ar Morhorc'h Bihan et Min Treuze));2;48.806067;-2.992955
-811;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-018 (Ar Morhoc'h Bihan);2205-01-018 (Ar Morhoc'h Bihan);2;48.806363;-2.990176
-812;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-019 (Ar Morhoc'h);2205-01-019 (Ar Morhoc'h);2;48.808048;-2.987744
+805;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-012 (Roch Vras (cote 16m));2205-01-012 (Roch Vras (cote 16m));2;48.800074;-2.988588
+806;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-013 (Roch Vras (cote 9m));2205-01-013 (Roch Vras (cote 9m));2;48.800653;-2.98633
+807;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-014 (Roch Radenek);2205-01-014 (Roch Radenek);2;48.805322;-2.983454
+808;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-015 (Roch ar Morbig);2205-01-015 (Roch ar Morbig);2;48.804977;-2.988942
+809;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-016 (Roch ar Mennou);2205-01-016 (Roch ar Mennou);2;48.804056;-2.991207
+810;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-017 (Banc de galets dAr Vilien Hir (entre Ar Morhorch Bihan et Min Treuze));2205-01-017 (Banc de galets dAr Vilien Hir (entre Ar Morhorch Bihan et Min Treuze));2;48.806067;-2.992955
+811;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-018 (Ar Morhoch Bihan);2205-01-018 (Ar Morhoch Bihan);2;48.806363;-2.990176
+812;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-019 (Ar Morhoch);2205-01-019 (Ar Morhoch);2;48.808048;-2.987744
 813;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-020 (Roche rouge);2205-01-020 (Roche rouge);2;48.811327;-2.985544
 814;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-021 (Roche jaune);2205-01-021 (Roche jaune);2;48.813398;-2.985961
-815;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-022 (Ile Blanche + Roc'h Château + Basse du Château);2205-01-022 (Ile Blanche + Roc'h Château + Basse du Château);2;48.824169;-2.995676
+815;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;2205-01-022 (Ile Blanche + Roch Château + Basse du Château);2205-01-022 (Ile Blanche + Roch Château + Basse du Château);2;48.824169;-2.995676
 816;CÔTE DU GOELO;CÔTE DU GOELO;Archipel Saint-Rion;Archipel Saint-Rion;;;Cléjou;Cléjou;2;48.806926;-2.982875
 817;RANCE FLUVIALE;RANCE FLUVIALE;autres localités;autres localités;;;La Goutte - Saint-Suliac (/Rance);La Goutte - Saint-Suliac (/Rance);2;48.55293482;-1.988688522
 818;RANCE FLUVIALE;RANCE FLUVIALE;autres localités;autres localités;;;La Hisse + Garel (Le Minihic-sur-Rance);La Hisse + Garel (Le Minihic-sur-Rance);2;48.55293482;-1.988688522
 819;RANCE FLUVIALE;RANCE FLUVIALE;autres localités;autres localités;;;La Hisse + plage du Roue (Langrolay);La Hisse + plage du Roue (Langrolay);2;48.55293482;-1.988688522
 820;RANCE FLUVIALE;RANCE FLUVIALE;autres localités;autres localités;;;La Hisse + Port Saint-Jean/Pleudihen la ville ger;La Hisse + Port Saint-Jean/Pleudihen la ville ger;2;48.55293482;-1.988688522
 821;RANCE FLUVIALE;RANCE FLUVIALE;autres localités;autres localités;;;La passagère + écluse Le Chatelier;La passagère + écluse Le Chatelier;2;48.55293482;-1.988688522
-822;RADE DE BREST;RADE DE BREST;Brest;Brest;;;ducs d'Albe de la pointe de l'Armorique;ducs d'Albe de la pointe de l'Armorique;2;48.32243379;-4.453583653
-823;RADE DE BREST;RADE DE BREST;Brest;Brest;;;port de commerce - ducs d'Albe;port de commerce - ducs d'Albe;2;48.3897;-4.48333
+822;RADE DE BREST;RADE DE BREST;Brest;Brest;;;ducs dAlbe de la pointe de lArmorique;ducs dAlbe de la pointe de lArmorique;2;48.32243379;-4.453583653
+823;RADE DE BREST;RADE DE BREST;Brest;Brest;;;port de commerce - ducs dAlbe;port de commerce - ducs dAlbe;2;48.3897;-4.48333
 824;RADE DE BREST;RADE DE BREST;Brest;Brest;;;port de commerce - gabion;port de commerce - gabion;2;48.3897;-4.48333
-825;RADE DE BREST;RADE DE BREST;Brest;Brest;;;port de commerce - quai  n°3;port de commerce - quai  n°3;2;48.3897;-4.48333
+825;RADE DE BREST;RADE DE BREST;Brest;Brest;;;port de commerce - quai n°3;port de commerce - quai n°3;2;48.3897;-4.48333
 826;RADE DE BREST;RADE DE BREST;Brest;Brest;;;port de Maison Blanche - radeau;port de Maison Blanche - radeau;2;48.3897;-4.48333
 827;RADE DE BREST;RADE DE BREST;Brest;Brest;;;port de plaisance - pontons;port de plaisance - pontons;2;48.3897;-4.48333
 828;RADE DE BREST;RADE DE BREST;Brest;Brest;;;port militaire;port militaire;2;48.3897;-4.48333
 829;AULNE ESTUARIENNE;AULNE ESTUARIENNE;chalands - Kersimon ;chalands - Kersimon ;;;Prioldy;Prioldy;2;48.30405242;-4.295839411
-830;CÔTE DU GOELO;CÔTE DU GOELO;Chenal du Ferlas;Chenal du Ferlas;;;2205-03-001 (Roc'h Kranked);2205-03-001 (Roc'h Kranked);2;48.826949;-3.061208
-831;CÔTE DU GOELO;CÔTE DU GOELO;Chenal du Ferlas;Chenal du Ferlas;;;2205-03-002 (Roc'h ar C'hroueier);2205-03-002 (Roc'h ar C'hroueier);2;48.825301;-3.037351
-832;CÔTE DU GOELO;CÔTE DU GOELO;Chenal du Ferlas;Chenal du Ferlas;;;2205-03-007 (Ilot SE de Roc'h Conan);2205-03-007 (Ilot SE de Roc'h Conan);2;48.821292;-3.051764
+830;CÔTE DU GOELO;CÔTE DU GOELO;Chenal du Ferlas;Chenal du Ferlas;;;2205-03-001 (Roch Kranked);2205-03-001 (Roch Kranked);2;48.826949;-3.061208
+831;CÔTE DU GOELO;CÔTE DU GOELO;Chenal du Ferlas;Chenal du Ferlas;;;2205-03-002 (Roch ar Chroueier);2205-03-002 (Roch ar Chroueier);2;48.825301;-3.037351
+832;CÔTE DU GOELO;CÔTE DU GOELO;Chenal du Ferlas;Chenal du Ferlas;;;2205-03-007 (Ilot SE de Roch Conan);2205-03-007 (Ilot SE de Roch Conan);2;48.821292;-3.051764
 833;AULNE ESTUARIENNE;AULNE ESTUARIENNE;ecole navale lanveoc;ecole navale lanveoc;;;bateaux brise-lame;bateaux brise-lame;2;48.28005212;-4.418123225
 834;AULNE ESTUARIENNE;AULNE ESTUARIENNE;ecole navale lanveoc;ecole navale lanveoc;;;chalands;chalands;2;48.28005212;-4.418123225
 835;AULNE ESTUARIENNE;AULNE ESTUARIENNE;ecole navale lanveoc;ecole navale lanveoc;;;toits;toits;2;48.28005212;-4.418123225
@@ -822,26 +822,26 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 850;TREGOR NORD ;TREGOR NORD ;Secteur de Penvénan;Secteur de Penvénan;;;Noguédou;Noguédou;2;48.861041;-3.282671
 851;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Secteur de Plougrescant;Secteur de Plougrescant;;;2206-02-039 (Rocher (cote 21) au nord de la pointe du Château);2206-02-039 (Rocher (cote 21) au nord de la pointe du Château);2;48.870575;-3.223987
 852;ESTUAIRE DU JAUDY;ESTUAIRE DU JAUDY;Secteur de Plougrescant;Secteur de Plougrescant;;;2206-02-040 (Graou Velen);2206-02-040 (Graou Velen);2;48.872629;-3.221886
-853;TREGOR NORD ;TREGOR NORD ;Secteur de Plougrescant;Secteur de Plougrescant;;;2207-01-003 (cote 13 m   (ar chastell meur bihan));2207-01-003 (cote 13 m   (ar chastell meur bihan));2;48.869608;-3.234837
+853;TREGOR NORD ;TREGOR NORD ;Secteur de Plougrescant;Secteur de Plougrescant;;;2207-01-003 (cote 13 m (ar chastell meur bihan));2207-01-003 (cote 13 m (ar chastell meur bihan));2;48.869608;-3.234837
 854;TREGOR NORD ;TREGOR NORD ;Secteur de Plougrescant;Secteur de Plougrescant;;;2207-01-017 (Annexe NO de Ile Yvinec);2207-01-017 (Annexe NO de Ile Yvinec);2;48.85582;-3.263475
 855;TREGOR NORD ;TREGOR NORD ;Secteur de Trévou-Tréguignec;Secteur de Trévou-Tréguignec;;;2207-03-006 (Toc Guenn);2207-03-006 (Toc Guenn);2;48.830759;-3.368289
 856;TREGOR NORD ;TREGOR NORD ;Trgor nord;Trgor nord;;;2207-03-001 (ile du chateau neuf);2207-03-001 (ile du chateau neuf);2;48.844933;-3.320236
 857;TREGOR NORD ;TREGOR NORD ;Trgor nord;Trgor nord;;;2207-03-002 (roche flaqueresse);2207-03-002 (roche flaqueresse);2;48.845163;-3.325818
-858;CÔTE DU GOELO;CÔTE DU GOELO;Trieux;Trieux;;;2205-02-001 (Roc'h an Onn);2205-02-001 (Roc'h an Onn);2;48.822371;-3.078863
-859;CÔTE DU GOELO;CÔTE DU GOELO;Trieux;Trieux;;;2205-02-002 (groupe de rochers au sud de la cote 11m à l'est de Ile à Bois);2205-02-002 (groupe de rochers au sud de la cote 11m à l'est de Ile à Bois);2;48.830488;-3.068181
-860;CÔTE DU GOELO;CÔTE DU GOELO;Trieux;Trieux;;;2205-02-003 (Ilot au SE de cote 15m à l'E l'Ile à Bois);2205-02-003 (Ilot au SE de cote 15m à l'E l'Ile à Bois);2;48.831289;-3.068197
+858;CÔTE DU GOELO;CÔTE DU GOELO;Trieux;Trieux;;;2205-02-001 (Roch an Onn);2205-02-001 (Roch an Onn);2;48.822371;-3.078863
+859;CÔTE DU GOELO;CÔTE DU GOELO;Trieux;Trieux;;;2205-02-002 (groupe de rochers au sud de la cote 11m à lest de Ile à Bois);2205-02-002 (groupe de rochers au sud de la cote 11m à lest de Ile à Bois);2;48.830488;-3.068181
+860;CÔTE DU GOELO;CÔTE DU GOELO;Trieux;Trieux;;;2205-02-003 (Ilot au SE de cote 15m à lE lIle à Bois);2205-02-003 (Ilot au SE de cote 15m à lE lIle à Bois);2;48.831289;-3.068197
 861;CÔTE DU GOELO;CÔTE DU GOELO;Trieux;Trieux;;;2205-02-004 (cote 11m);2205-02-004 (cote 11m);2;48.831913;-3.067361
 862;CÔTE DU GOELO;CÔTE DU GOELO;Trieux;Trieux;;;2205-02-006 (cote 13m (A));2205-02-006 (cote 13m (A));2;48.833764;-3.066463
 863;CÔTE DU GOELO;CÔTE DU GOELO;Trieux;Trieux;;;2205-02-007 (cote 13m (B));2205-02-007 (cote 13m (B));2;48.834546;-3.065917
 864;CÔTE DU GOELO;CÔTE DU GOELO;Trieux;Trieux;;;2205-02-008 (Ile (cote 11m) au SO des Oreilles de Lapin);2205-02-008 (Ile (cote 11m) au SO des Oreilles de Lapin);2;48.835591;-3.063528
 865;CÔTE DU GOELO;CÔTE DU GOELO;Trieux;Trieux;;;2205-02-010 (Oreilles de Lapin);2205-02-010 (Oreilles de Lapin);2;48.838122;-3.061363
-866;CÔTE DU GOELO;CÔTE DU GOELO;Trieux;Trieux;;;Roc'h Donan;Roc'h Donan;2;48.791854;-3.095774
+866;CÔTE DU GOELO;CÔTE DU GOELO;Trieux;Trieux;;;Roch Donan;Roch Donan;2;48.791854;-3.095774
 867;GRANDE RADE DE SAINT MALO;GRANDE RADE DE SAINT MALO;Ville de Saint-Malo;Ville de Saint-Malo;;;intra-muros + extra-muros + Saint Servan + Paramé + Rothéneuf;intra-muros + extra-muros + Saint Servan + Paramé + Rothéneuf;2;48.64963077;-1.968184435
 868;ROCHES DE SAINT-QUAY ;ROCHES DE SAINT-QUAY ;Ville de Saint-Quay-Portrieux;Ville de Saint-Quay-Portrieux;;;;;2;48.65182;-2.831649
-999;;;COLO_TEST;COLO_TEST;;;UNIT_TEST;UNIT_TEST;3;40.999999;0.999999
+999;;ROCHES DE SAINT-QUAY ;COLO_TEST;COLO_TEST;;;UNIT_TEST;UNIT_TEST;3;40.999999;0.999999
 1000;;Lagune de Gachon;;GACHON_1;Gâchon Est;;;;1;43.470432179362;3.8267670803927
 1001;;Etang du Prévost;;PREVOST_2;Maguelone;;;;1;43.510309899942;3.8873724876354
-1002;;Etang de Vic;;VIC_2;La Croix de l'étang;;;;1;43.49179616732;3.8081407722964
+1002;;Etang de Vic;;VIC_2;La Croix de létang;;;;1;43.49179616732;3.8081407722964
 1003;;Salin de Fos;;SFOS_4;;;;;1;43.441182804927;4.9583769150052
 1004;;Port-Saint-Louis;;FGRA_1;Fléche de la Gracieuse;;;;1;43.385120014516;4.9150029491069
 1005;;Port-Saint-Louis;;NAP_0;Plage Napoleon;;;;1;43.364730899609;4.8977875430491
@@ -850,7 +850,7 @@ colonie_id;secteur_nom_en;secteur_nom_fr;colonie_nom_en;colonie_nom_fr;etang;ges
 1008;;Salin de Tallavignes;;TALLAVIGNES_3;;;;;1;43.029577173333;3.0187716430153
 1009;;Salin de Gruissan;;SALINS_DE_GRUISSAN_TOTAL;;;;;1;43.088285653306;3.0886118978403
 1010;;Salin de Sainte Lucie;;STE_LUCIE_TOTAL;;;;;1;43.040498521677;3.0607638124997
-1011;;Salines de l'Estarac;;ESTARAC_2;;Oui;;;1;43.107667123695;2.9682726811461
+1011;;Salines de lEstarac;;ESTARAC_2;;Oui;;;1;43.107667123695;2.9682726811461
 1012;;Canavérier;;ECA_1;Canavérier;;;;1;43.564061098287;4.2285051529223
 1013;;Domaine de Jarras;;JAR_1;Grande Baisse;Oui;;;1;43.493111140232;4.1916688832015
 1014;;Grau-du-Roi;;SIC_3;Lagune de la Sicarex;;;;1;43.497178721794;4.1418880311034
