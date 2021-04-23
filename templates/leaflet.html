@@ -4,7 +4,6 @@
         <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
         <title>France</title>
         <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
-
         <link rel="stylesheet" href="https://unpkg.com/leaflet@1.6.0/dist/leaflet.css" integrity="sha512-xwE/Az9zrjBIphAcBb3F6JVqxf46+CDLwfLMHloNu6KEQCAWi6HcDUbeOfBIptF7tcCzusKFjFw2yuvEpDL9wQ==" crossorigin=""/>
         <script src="https://unpkg.com/leaflet@1.6.0/dist/leaflet.js" integrity="sha512-gZwIG9x3wUXg2hdXF6+rVkLF/0Vi9U8D2Ntg4Ga5I5BZpVkVxlJWbSQtXPSiUTtC0TjtGOmxa1AJPuV0CPthew==" crossorigin=""></script>
     </head>
@@ -20,12 +19,11 @@
 <script type="text/javascript"  src="{{ url_for('static', filename='map.js') }}"></script> -->
 <script type="text/javascript">
             function initialize() {
-                var ID = JSON.parse('{{ ID | safe}}');
-                var Lat = JSON.parse('{{ Lat | safe}}');
-                var Long = JSON.parse('{{ Long | safe}}');
+                var data = JSON.parse('{{ data | safe }}');
                 var map = L.map('map').setView([48.833, 2.333], 7);
-            for (var i = Lat.length -1 ; i>=0;i-- ) { //Créer un marqueur avec le nom[i], la latitude[i] et la longitude[i]
-                L.marker([ Lat[i][0] , Long[i][0]]).addTo(map) .bindTooltip( (ID[i][0]), {permanent: false, direction: 'top'});
+
+            for (var i = data.length-1 ; i>=0;i-- ) { //Créer un marqueur avec le nom[i], la latitude[i] et la longitude[i]
+                L.marker([ data[i][1] , data[i][2]]).addTo(map) .bindTooltip( (data[i][0]), {permanent: false, direction: 'top'});
              }
                 var osmLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { // LIGNE 20
                     attribution: '© OpenStreetMap contributors',

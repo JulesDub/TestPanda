@@ -13,30 +13,20 @@ def map_func():
 
 @app.route('/leaflet')
 def leaflet():
-    namef = pd.read_csv('import_colonies_fev2021_OG.csv', usecols=['secteur_nom_fr'], sep=';', encoding="utf8")
-    longf = pd.read_csv('import_colonies_fev2021_OG.csv', usecols=['longitude'], sep=';')
-    latf = pd.read_csv('import_colonies_fev2021_OG.csv', usecols=['latitude'], sep=';')
+    data = pd.read_csv('import_colonies_fev2021.csv', usecols=['secteur_nom_fr', 'longitude', 'latitude'], sep=';', encoding="utf8")
+    new_data = data.dropna()
 
-    new_name = namef.dropna()
-    new_long = longf.dropna()
-    new_lat = latf.dropna()
+    for x in new_data.index:
+        if new_data.loc[x, "longitude"] > 180:
+            new_data.drop(x, inplace=True)
+        if new_data.loc[x, "latitude"] > 90:
+            new_data.drop(x, inplace=True)
 
-    for x in new_long.index:
-        if new_long.loc[x, "longitude"] > 180:
-            new_long.drop(x, inplace=True)
+    dfdata = pd.DataFrame(new_data, columns=['secteur_nom_fr', 'latitude', 'longitude'])
 
-    for x in new_lat.index:
-        if new_lat.loc[x, "latitude"] > 90:
-            new_lat.drop(x, inplace=True)
+    dataf = dfdata.values.tolist()
 
-    dfname = pd.DataFrame(new_name, columns=['secteur_nom_fr'])
-    dfx = pd.DataFrame(new_long, columns=['longitude'])
-    dfy = pd.DataFrame(new_lat, columns=['latitude'])
-
-    name = dfname.values.tolist()
-    long = dfx.values.tolist()
-    lat = dfy.values.tolist()
-    return render_template('leaflet.html', Long=json.dumps(long), Lat=json.dumps(lat), ID=json.dumps(name))
+    return render_template('leaflet.html', data=json.dumps(dataf))
     """Id = pd.read_csv('ville.csv', usecols=['Name'],sep=';',encoding='utf8')
 	Long1 = pd.read_csv('ville.csv', usecols=['Long'],sep=';') 
 	Lat1 = pd.read_csv('ville.csv', usecols=['Lat'],sep=';') 
