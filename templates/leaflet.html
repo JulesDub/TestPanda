@@ -10,6 +10,16 @@
     </head>
     <style>
         html, body { height: 100% }
+
+        .leaflet-container .leaflet-control-mouseposition {
+          background-color: rgba(255, 255, 255, 0.7);
+          box-shadow: 0 0 5px #bbb;
+          padding: 0 5px;
+          padding: 0 5px;
+          margin:0;
+          color: #333;
+          font: 11px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
+}
     </style>
 
     <body onload="initialize()">
@@ -19,16 +29,19 @@
 
 <!-- Pour export futur du js dans un fichier séparé
 <script type="text/javascript"  src="{{ url_for('static', filename='map.js') }}"></script> -->
-<script type="text/javascript">
-            function initialize() {
-                var data = JSON.parse('{{ data | safe }}');
-                var map = L.map('map').setView([48.833, 2.333], 7);
-                var layer = L.esri.basemapLayer('Topographic').addTo(map);
-                var layerLabels;
-            for (var i = data.length-1 ; i>=0;i-- ) {
-                L.marker([ data[i][1] , data[i][2]]).addTo(map) .bindTooltip( (data[i][0]), {permanent: false, direction: 'top'});
-             }
-            L.esri.basemapLayer('Gray').addTo(map);
-            }
+<script>
+    function initialize() {
+    var data = JSON.parse('{{ data | safe }}');
+    var datab = JSON.parse('{{ datab | safe }}');
+    var map = L.map('map').setView([48.833, 2.333], 6);
+    for (var i = data.length-1 ; i>=0;i-- ) {
+        L.marker([ data[i][1] , data[i][2]]).addTo(map) .bindTooltip( (data[i][0]), {permanent: false, direction: 'top'});
+        }
+    for (var i = datab.length-1 ; i>=0;i-- ) {
+        L.marker([ datab[i][1] , datab[i][2]]).addTo(map) .bindTooltip( (datab[i][0]), {permanent: false, direction: 'top'});
+        }
+    var osmLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { attribution: '© OpenStreetMap contributors',maxZoom: 19 });
+    map.addLayer(osmLayer);
+    }
 </script>
 
