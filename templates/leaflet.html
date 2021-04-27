@@ -17,7 +17,7 @@
           padding: 0 5px;
           padding: 0 5px;
           margin:0;
-          color: #333;
+          color: #33
           font: 11px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
 }
     </style>
@@ -32,13 +32,17 @@
 <script>
     function initialize() {
     var data = JSON.parse('{{ data | safe }}');
-    var datab = JSON.parse('{{ datab | safe }}');
     var map = L.map('map').setView([48.833, 2.333], 6);
-    for (var i = data.length-1 ; i>=0;i-- ) {
-        L.marker([ data[i][1] , data[i][2]]).addTo(map) .bindTooltip( (data[i][0]), {permanent: false, direction: 'top'});
+    var size1 = data[data.length-1][0]
+    var size2 = data[data.length-1][1]
+    var size_total = size1+size2
+    for (var i = size1-1 ; i>=0;i-- ) {
+        L.marker([ data[i][1] , data[i][2]]).addTo(map) .bindTooltip( (data[i][0]+' D1C2'), {permanent: false, direction: 'top'});//I named them 'D12C' to show that I manage to separate the two
+        //CSVs although it is only in one stream, and therefore that I could assign them different properties
         }
-    for (var i = datab.length-1 ; i>=0;i-- ) {
-        L.marker([ datab[i][1] , datab[i][2]]).addTo(map) .bindTooltip( (datab[i][0]), {permanent: false, direction: 'top'});
+    for (var i = size_total-1; i>=size1;i-- ) {
+        L.marker([ data[i][1] , data[i][2]]).addTo(map) .bindTooltip( (data[i][0]+' D8C1'), {permanent: false, direction: 'top'});//I named them 'D8C1' to show that I manage to separate the two
+        //CSVs although it is only in one stream, and therefore that I could assign them different properties
         }
     var osmLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { attribution: '© OpenStreetMap contributors',maxZoom: 19 });
     map.addLayer(osmLayer);
