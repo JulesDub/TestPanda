@@ -10,19 +10,12 @@
     </head>
     <style>
         html, body { height: 100% }
-
-        .leaflet-container .leaflet-control-mouseposition {
-          background-color: rgba(255, 255, 255, 0.7);
-          box-shadow: 0 0 5px #bbb;
-          padding: 0 5px;
-          padding: 0 5px;
-          margin:0;
-          color: #33
-          font: 11px/1.5 "Helvetica Neue", Arial, Helvetica, sans-serif;
-}
     </style>
 
     <body onload="initialize()">
+        <!--<script type="text/javascript"  src="static/map.js"></script>-->
+        <script type="text/javascript"  src="static/ControlMouse.js"></script>
+        <link rel="stylesheet" href="static/ControlMouse.css">
         <div id="map" style="width:100%; height:100%"></div>
     </body>
 </html>
@@ -36,14 +29,8 @@
     var size1 = data[data.length-1][0]
     var size2 = data[data.length-1][1]
     var size_total = size1+size2
-
     var myIcon = L.icon({
-    iconUrl: 'https://www.ija-lille.fr/wpress/wp-content/uploads/2018/01/map-marker-icon.png',
-    iconSize: [38, 45],
-
-
-
-});
+    iconUrl: 'https://www.ija-lille.fr/wpress/wp-content/uploads/2018/01/map-marker-icon.png',iconSize: [38, 45],});
     for (var i = size1-1 ; i>=0;i-- ) {
         L.marker([ data[i][1] , data[i][2]]).addTo(map) .bindTooltip( (data[i][0]), {permanent: false, direction: 'bottom'});
         }
@@ -51,6 +38,7 @@
         L.marker([ data[i][1] , data[i][2]], {icon: myIcon}).addTo(map).bindTooltip( (data[i][0]), {permanent: false, direction: 'top'});
         }
     var osmLayer = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', { attribution: '© OpenStreetMap contributors',maxZoom: 19 });
+    L.control.mousePosition().addTo(map);
     map.addLayer(osmLayer);
     }
 </script>
