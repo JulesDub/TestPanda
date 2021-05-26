@@ -3,7 +3,7 @@ import psycopg2
 
 
 #Connection à la base SIMM_LIEUX
-conn_simm_lieux = psycopg2.connect(host='vpostgres10.ifremer.fr',database="simm_lieux",user='simm_lieux_user',password='Motocyclette bionique et menestrel par ordre alphabetique',port= '5432')
+conn_simm_lieux = psycopg2.connect(host='vpostgres10.ifremer.fr',database="simm_lieux",user='simm_lieux_user',password='',port= '5432')
 cursor_simm_lieux = conn_simm_lieux.cursor();
 
 
@@ -33,7 +33,7 @@ insert_bancarisation="""https://sih.ifremer.fr/Ecosystemes/Donnees-de-campagnes"
 
 cx_Oracle.init_oracle_client(lib_dir=r"C:\Program Files\instantclient_19_11")
 dsn_tns = cx_Oracle.makedsn('insta-vip', '1521', service_name='INSTA_TAF') # if needed, place an 'r' before any parameter in order to address special characters such as '\'.
-conn = cx_Oracle.connect(user='SIS_READER', password='XIANFOND', dsn=dsn_tns) # if needed, place an 'r' before any parameter in order to address special characters such as '\'. For example, if your user name contains '\', you'll need to place 'r' before the user name: user=r'User Name'
+conn = cx_Oracle.connect(user='SIS_READER', password='', dsn=dsn_tns) # if needed, place an 'r' before any parameter in order to address special characters such as '\'. For example, if your user name contains '\', you'll need to place 'r' before the user name: user=r'User Name'
 c = conn.cursor()
 
 # Fonction de récupération des données géographiques de chaque campagne

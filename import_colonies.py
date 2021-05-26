@@ -6,7 +6,7 @@ import psycopg2
 
 
 #Connection à la base SIMM_LIEUX de PRODUCTION
-conn_simm_lieux = psycopg2.connect(host='vpostgres10.ifremer.fr',database="simm_lieux",user='simm_lieux_user',password='Motocyclette bionique et menestrel par ordre alphabetique',port= '5432')
+conn_simm_lieux = psycopg2.connect(host='vpostgres10.ifremer.fr',database="simm_lieux",user='simm_lieux_user',password='',port= '5432')
 cursor_simm_lieux = conn_simm_lieux.cursor();
 
 
